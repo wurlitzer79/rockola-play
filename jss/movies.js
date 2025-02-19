@@ -1,4 +1,5 @@
     const movies = [
+	 <!-- ********** PELICULAS INFANTILES ***************************************************************************************************************** -->	  		    
       { title: 'Pelicula<br>Angry Bird 1', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjRlNmIxN2ItMDE4NS00NTM2LTllNTEtNzAwZTIzZmE0YzA2XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/ANGRY%20BIRDS%201.mp4' 
@@ -207,6 +208,22 @@
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMGNjNDRhOTctZjU2OS00ODBkLWFkZWEtMjI4ZWQ4MTllMTFiXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/ZOOTOPIA.mp4'
 	  }
+	 ,{ title: 'Pelicula<br>Shrek 1', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2FkMTRkNTUtYTI0NC00ZjI4LWI5MzUtMDFmOGY0NmU2OGY1XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/shrek_202407/Shrek.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Shrek 2', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzNmNjQ1NmUtNzhiZS00YWE2LTg4N2ItZTA2ODdmOTMwOTQ1XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/shrek_202407/Shrek%202.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Shrek 3', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOWY0NGIwMTUtNGQ0NS00NjJiLTkxYTYtY2Y5YWZmODI4ZGRlXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/shrek_202407/Shrek%20Tercero.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Shrek 4', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTY0OTU1NzkxMl5BMl5BanBnXkFtZTcwMzI2NDUzMw@@._V1_.jpg', 
+	    url: 'https://archive.org/download/shrek_202407/Shrek%20Para%20Siempre.mp4'
+	  }	  
 	 <!-- ********** DOCUMENTALES ****************************************************************************************************************** -->
 	 ,{ title: 'Documental<br>El Niño, el topo, el zorro y el Caballo', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZDg4MjI3NGMtOTcwMC00ZWQ0LWI0YjMtNDA0YmZjN2FlYzg2XkEyXkFqcGc@._V1_.jpg', 
@@ -290,6 +307,23 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTY1MDM5YWUtODVkMy00MGRkLTlkMTEtYTQyMTFhZmFjYmZiXkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/22.-el-recuerdo-de-marnie/22.%20El%20recuerdo%20de%20Marnie.mp4'
 	  }
+	 <!-- ********** PELICULAS VARIAS ***************************************************************************************************************** -->	  
+	 ,{ title: 'Pelicula<br>La Naranja Mecánica', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjFiN2E5N2ItZjc1Yy00MzZmLThmZGQtNGIyYjljMzk1NmU4XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/la-naranja-mecanica.-latino/La%20naranja%20mec%C3%A1nica.%20Latino.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Titanes del Pacifico 2', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjU2OWM0N2ItMWU3Zi00OTE3LWJlOTktNzE3YWNkMDBiOTlhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/titanes-del-pacifico_202107/Titanes%20del%20Pacifico.mkv'
+	  }
+	 ,{ title: 'Pelicula<br>El Resplandor[25fps]', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmUxZDU3NjktMzA1OS00OGUwLWJkOTctYzhjOGI5MTcyY2U3XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/el-resplandor-venta-1980-25fps-3000kps/El%20Resplandor%20%28Venta%201980%20-%2025fps%20-3000kps%29.mp4'
+	  }	  
+	 ,{ title: 'Pelicula<br>El Increible Hulk', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmJkODY3ZDItNDk4Ny00OGFmLWE3OGQtYmEwMDRmMGQ3NmI2XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/5-el-increible-hulk/5%20El%20Increible%20Hulk.mp4'
+	  }	
     ];		
 
     function loadGallery() {
