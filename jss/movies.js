@@ -274,22 +274,22 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZTk0ZjhmMTItZTY4OS00MzM0LWI3YjQtYTIyMzIwN2UwYjQ0XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/17.-ponyo/17.%20Ponyo.mp4'
 	  }
-	 <!-- ,{ title: 'Studio Ghibli<br>La Colina de las Amapolas', -->
-	    <!-- thumbnail: 'https://m.media-amazon.com/images/M/MV5BNzRmYzY2ODktZWM4NS00OTc5LWE5NGEtYWY3NTRmYzM4ZmE5XkEyXkFqcGc@._V1_.jpg', -->
-		<!-- url: 'https://archive.org/details/@detras_de_sus_ojos?sort=title' -->
-	  <!-- }	   -->
-	 <!-- ,{ title: 'Studio Ghibli<br>Se Levanta el Viento', -->
-	    <!-- thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzdmOWJlNmUtYzE2MC00M2IzLTk2MTktNDFjOTA5ZDVkOGZmXkEyXkFqcGc@._V1_.jpg', -->
-		<!-- url: 'https://archive.org/details/@detras_de_sus_ojos?sort=title' -->
-	  <!-- } -->
-	 <!-- ,{ title: 'Studio Ghibli<br>La Princesa Kaguya', -->
-	    <!-- thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2IxN2ZmNzQtNjQ5Mi00OTFkLThmZWItM2FiMDlmOTE3YTc0XkEyXkFqcGc@._V1_.jpg', -->
-		<!-- url: 'https://archive.org/details/@detras_de_sus_ojos?sort=title' -->
-	  <!-- } -->
-	 <!-- ,{ title: 'Studio Ghibli<br>El Recuerdo de Marnie', -->
-	    <!-- thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTY1MDM5YWUtODVkMy00MGRkLTlkMTEtYTQyMTFhZmFjYmZiXkEyXkFqcGc@._V1_.jpg', -->
-		<!-- url: 'https://archive.org/details/@detras_de_sus_ojos?sort=title' -->
-	  <!-- } -->
+	 ,{ title: 'Studio Ghibli<br>La Colina de las Amapolas',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNzRmYzY2ODktZWM4NS00OTc5LWE5NGEtYWY3NTRmYzM4ZmE5XkEyXkFqcGc@._V1_.jpg',
+		url: 'https://archive.org/download/19.-la-colina-de-las-amapolas/19.%20La%20colina%20de%20las%20amapolas.mp4'
+	  }
+	 ,{ title: 'Studio Ghibli<br>Se Levanta el Viento', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzdmOWJlNmUtYzE2MC00M2IzLTk2MTktNDFjOTA5ZDVkOGZmXkEyXkFqcGc@._V1_.jpg', 
+		url: 'https://archive.org/download/20.-se-levanta-el-viento/20.%20Se%20levanta%20el%20viento.mp4' 
+	  } 
+	 ,{ title: 'Studio Ghibli<br>La Princesa Kaguya',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2IxN2ZmNzQtNjQ5Mi00OTFkLThmZWItM2FiMDlmOTE3YTc0XkEyXkFqcGc@._V1_.jpg',
+		url: 'https://archive.org/download/21.-la-princesa-kaguya/21.%20La%20princesa%20kaguya.mp4'
+	  }
+	 ,{ title: 'Studio Ghibli<br>El Recuerdo de Marnie',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTY1MDM5YWUtODVkMy00MGRkLTlkMTEtYTQyMTFhZmFjYmZiXkEyXkFqcGc@._V1_.jpg',
+		url: 'https://archive.org/download/22.-el-recuerdo-de-marnie/22.%20El%20recuerdo%20de%20Marnie.mp4'
+	  }
     ];		
 
     function loadGallery() {
