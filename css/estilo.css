@@ -1,0 +1,8 @@
+ body 				{ font-family: Arial, sans-serif; height: 100vh; display: flex; }
+.sidebar 			{ width: 30%; min-width: 150px; max-width: 500px; overflow-y: auto; border-right: 2px solid #ccc; padding: 10px; resize: horizontal; overflow: auto; cursor: ew-resize; }
+.main-content 		{ flex: 1; display: flex; justify-content: center; align-items: center; }
+.gallery 			{ display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 10px; }
+.movie-item 		{ cursor: pointer; padding: 5px; transition: background-color 0.3s; }
+.movie-item:hover 	{ background-color: #f0f0f0; }
+ img 				{ width: 100%; height: auto; border-radius: 8px; }
+ video 				{ width: 95%; height: 90%; border-radius: 10px; }
