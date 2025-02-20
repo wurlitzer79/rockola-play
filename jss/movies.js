@@ -1,288 +1,492 @@
     const movies = [
-	 <!-- ********** PELICULAS INFANTILES ***************************************************************************************************************** -->	  	
-      { title: 'Pelicula Infantil<br>Angry Bird 1', 
+	 <!-- ********** PELICULAS INFANTILES VARIAS ********************************************************************************************************** -->	  	
+      { title: 'Infantil Varios<br>Bambi', 
+		thumbnail: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuuFcuDnPQiCfEwmRSSsdtOcFdI6-H6khZepIQL-f2fVMFEh8T0DlGR0RLMo-8aSKMmxAyQQAQEDT5Nc8uZ4qEIp20nOROwfPYbe1yOpPufOEzSBRsEU3JxPXlglLFOAT8dYIWS2SAmeGQk1yxESZiNiBL1TWJpNjGPJSJl2uoCPQD94NYT1Nmb_Ml/s1145/Bambi%201.jpg', 
+		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/BAMBI%201.mp4'
+	  }	 
+     ,{ title: 'Infantil Angry Bird<br>Angry Bird 1', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjRlNmIxN2ItMDE4NS00NTM2LTllNTEtNzAwZTIzZmE0YzA2XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/ANGRY%20BIRDS%201.mp4' 
 	  }
-     ,{ title: 'Pelicula Infantil<br>Angry Bird 2', 
+     ,{ title: 'Infantil Angry Bird<br>Angry Bird 2', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzJmZTY2ZTktZDVlYy00Y2VjLWJiZjMtMmUzZDVhOGU4NjdiXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/ANGRY%20BIRDS%202.mp4' 
-	  }	  
-     ,{ title: 'Pelicula Infantil<br>Bambi', 
-		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTMxODViNTQtNjVlNC00Zjg2LTk1MDktZTZhM2I4YjhiZWRkXkEyXkFqcGc@._V1_.jpg', 
-		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/BAMBI%201.mp4'
-	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Barbie Cascanueces', 
+	  }
+     ,{ title: 'Infantil Barbie<br>Barbie Cascanueces', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZTE0OWE5ZTctM2U2YS00MWQyLWFkODAtMjI3Mzg0MWY3ZmQ5XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/BARBIE%20CASCANUECES.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Barbie En Busca de Perritos', 
+     ,{ title: 'Infantil Barbie<br>Barbie En Busca de Perritos', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BYTgyNGYwMTUtY2I5OC00YTUwLWEwZjctN2ZmZjliODg5Yzc1XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/BARBIE%20EN%20BUSCA%20DE%20PERRITOS.mp4'
 	  }	  
-     ,{ title: 'Pelicula Infantil<br>Barbie Escuela de Princesas', 
+     ,{ title: 'Infantil Barbie<br>Barbie Escuela de Princesas', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMmM5MjNjNzUtZDdlMC00MDU4LWE3MjEtN2EyYWU4ZWUxZTgyXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/BARBIE%20ESCUELA%20DE%20PRINCESAS.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Barbie Princesa y la Plebeya', 
+     ,{ title: 'Infantil Barbie<br>Barbie Princesa y la Plebeya', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjQxYjg4NTktZDQ2Mi00YTZhLTlkMDAtMGYyNGIxNjRjZTg0XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/BARBIE%20LA%20PRINCESA%20Y%20LA%20PLEBEYA.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Barbie Princesa de las Islas', 
+     ,{ title: 'Infantil Barbie<br>Barbie Princesa de las Islas', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZDljMjhlOTAtM2NmMC00OThmLTk3OTItYmE1NDM3ZDJlMzQxXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/BARBIE%20PRINCESA%20DE%20LAS%20ISLAS.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Barbie Pulgarcita', 
+     ,{ title: 'Infantil Barbie<br>Barbie Pulgarcita', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDdjYWQxYzgtOWNhNS00ODhjLWI5ZjAtOGRkNTliMzBmYzZkXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/BARBIE%20PULGARCITA.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Barbie El Secreto de las Hadas', 
+     ,{ title: 'Infantil Barbie<br>Barbie El Secreto de las Hadas', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjM1NjI1ZTUtYzRkOC00NDE1LTgxZmUtMTgxYTYxMjJhMDZkXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/BARBIE%20SECRETO%20DE%20LAS%20HADAS.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Barbie Las Tres Mosqueteras', 
+     ,{ title: 'Infantil Barbie<br>Barbie Las Tres Mosqueteras', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BYWQ4MjVhZmYtZGM2OS00Yjg1LWJlZWUtZjUwYzliMzI1M2ZiXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/BARBIE%20TRES%20MOSQUETERAS.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Barbie Una Aventura Espacial', 
+     ,{ title: 'Infantil Barbie<br>Barbie Una Aventura Espacial', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMjI3NDUyYmMtODNjMS00MGU5LTk5MTktNTY5NmIzMzA4MjIwXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/BARBIE%20UN%20AVENTURA%20ESPACIAL.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Barbie Una Aventura de Caballos', 
+     ,{ title: 'Infantil Barbie<br>Barbie Una Aventura de Caballos', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMWJhYjRkYjMtMTUxNC00NmYyLTk3NDgtY2ZhNDg0NDYxYmUxXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/BARBIE%20UNA%20AVENTURA%20DE%20CABALLOS.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Barbie Y las Doce Princesas Bailarinas', 
+     ,{ title: 'Infantil Barbie<br>Barbie Y las Doce Princesas Bailarinas', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMmVkNDNiMmUtYzU0NS00ODdhLThmMGItMDEwMjUzNWNlMTY1XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/BARBIE%20Y%20LAS%20DOCE%20PRINCESAS%20BAILARINAS.mp4'
 	  }	  	  	  
-     ,{ title: 'Pelicula Infantil<br>Bichos', 
+     ,{ title: 'Infantil Varios<br>Bichos', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzRmZmZkZjctMmJiOS00MTFiLTg2YmUtY2E3ZjZiZjA2MzA0XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/BICHOS.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Buscando a Nemo', 
+     ,{ title: 'Infantil Buscando a Nemo<br>Buscando a Nemo', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTFiMjA0NjAtZTEwYS00MWRiLWI3MGEtMDlkZGY1MDQ4NjhiXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/BUSCANDO%20A%20NEMO.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Buscando a Dory', 
+     ,{ title: 'Infantil Buscando a Nemo<br>Buscando a Dory', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTc3ZjNkMjctOTY4Zi00MjM3LWJjZTktMGRkYTFlYTMxY2MyXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/BUSCANDO%20A%20DORY.mp4'
 	  }	  	  	  
-     ,{ title: 'Pelicula Infantil<br>Cars 2', 
+//     ,{ title: 'Infantil Cars<br>Cars 1', 
+//		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_.jpg', 
+//		url: ''
+//	  }
+     ,{ title: 'Infantil Cars<br>Cars 2', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/CARS%202.mp4'
-	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Cars 3', 
+	  }
+     ,{ title: 'Infantil Cars<br>Cars 3', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZTEyMTJjMzUtYTcyOC00OGVhLWE4YWUtYzM3YWM1Y2JiMzQzXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/CARS%203.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Chico Bon Bon Un Mono con Herramientas', 
+     ,{ title: 'Infantil Varios<br>Chico Bon Bon Un Mono con Herramientas', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMGJlOWFkMGItMWUzMi00ZjU1LWE3OWQtNjkzMDYwOTgzY2JmXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/CHICO%20BOM%20BOM.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Dino Time', 
+     ,{ title: 'Infantil Varios<br>Dino Time', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTYzOTM3NjY4MF5BMl5BanBnXkFtZTcwMzMzMDY2OA@@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/DINO%20TIME.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>El Lorax', 
+     ,{ title: 'Infantil Varios<br>El Lorax', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BYTRhYTBkNjgtOTVjNi00OTZmLWJlMWYtNWRkZDJiMmVmMDEwXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/EL%20LORAX.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>El Rey León 2', 
+//     ,{ title: 'Infantil Varios<br>El Rey León 1', 
+//		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjExYTQwY2EtMDRkYi00ZWIzLTkwZDUtYjVmODYxMDUwNDI5XkEyXkFqcGc@._V1_.jpg', 
+//		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/EL%20REY%20LEÓN%202.mp4'
+//	  }	  
+     ,{ title: 'Infantil Varios<br>El Rey León 2', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMjA1MDUxNjI4OF5BMl5BanBnXkFtZTcwMTY4NTYyMQ@@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/EL%20REY%20LEÓN%202.mp4'
-	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>El Espanta Tiburones', 
+	  }	  
+     ,{ title: 'Infantil Varios<br>El Espanta Tiburones', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTMxMjY0NzE2M15BMl5BanBnXkFtZTcwNTc3ODcyMw@@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/ESPANTATIBURONES.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Ferdinand', 
+     ,{ title: 'Infantil Varios<br>Ferdinand', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMjI4Mjk0NzQwOF5BMl5BanBnXkFtZTgwNjg3MjI2MjI@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/FERDINAND.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Intensamente', 
+     ,{ title: 'Infantil Varios<br>Intensamente', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTk4ZDdmMjYtNzE4Zi00NjhjLThkY2ItYTc4NDY5MzQzNWRkXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/INTENSAMENTE.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Jorge El Curioso', 
+     ,{ title: 'Infantil Varios<br>Jorge El Curioso', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNmJlNjIxMjItODliMC00MjYzLWEyMGItZTA2MGM2YjgxMDlmXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/JORGE%20EL%20CURIOSO.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Juego de Gemelas', 
+     ,{ title: 'Infantil Varios<br>Juego de Gemelas', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDhiZTA1YTgtNmZkMi00ZWY5LTg3MzEtOTk0YzkxNDJjMWQ0XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/JUEGO%20DE%20GEMELAS.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Klara Y El ladrón de Manzanas', 
+     ,{ title: 'Infantil Varios<br>Klara Y El ladrón de Manzanas', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZmI0YTExNDItODVkOC00MjY2LTllMDEtYThlNzAzNDdkNGUyXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/KLARA%20LA%20VACA%20CUIDADORA%20DE%20MANZANAS.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>La Era de Hielo 1', 
+     ,{ title: 'Infantil La Era de Hielo<br>La Era de Hielo 1', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZTQ4OWZlOWMtYmZlMS00ZjlmLTk4NzAtMGFlYmQxNjRmMDVkXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LA%20ERA%20DE%20HIELO%201.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>La Era de Hielo 2 El Deshielo', 
+     ,{ title: 'Infantil La Era de Hielo<br>La Era de Hielo 2 El Deshielo', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZmFjNGE2NmYtYjA1Ni00N2QzLTk2MGYtZjBkZjNiNzc3NDhkXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LA%20ERA%20DE%20HIELO%202.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>La Era de Hielo 3 El Origen de los Dinosaurios', 
+     ,{ title: 'Infantil La Era de Hielo<br>La Era de Hielo 3 El Origen de los Dinosaurios', 
 		thumbnail: 'https://mx.web.img3.acsta.net/pictures/20/10/21/20/18/4455162.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LA%20ERA%20DE%20HIELO%203.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>La Era de Hielo 4 La Formación de Continentes', 
+     ,{ title: 'Infantil La Era de Hielo<br>La Era de Hielo 4 La Formación de Continentes', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmFiMmU3NDctMWJmYy00YjM1LWJkNzItNzk3OGE5NTBmMzg4XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LA%20ERA%20DE%20HIELO%204%20LA%20DERIVA%20CONTINENTAL.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>La Era de Hielo 5 Choque de Mundos', 
+     ,{ title: 'Infantil La Era de Hielo<br>La Era de Hielo 5 Choque de Mundos', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMDYyMGJhYmEtYzMzYi00YmJiLWFjMmItODMyMTRhNzg1OGNkXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LA%20ERA%20DE%20HIELO%205.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>La Era de Hielo La Gran Busqueda de Pascua', 
+     ,{ title: 'Infantil La Era de Hielo<br>La Era de Hielo La Gran Busqueda de Pascua', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTBkOTUyNzUtYjU4OC00ZjU4LWExZmItZjNjYWFhYmRiNDAyXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LA%20ERA%20DE%20HIELO%20LA%20GRAN%20BUSQUEDA%20DE%20PASCUA.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>La Era de Hielo Una Navidad Tamaño Mamut', 
+     ,{ title: 'Infantil La Era de Hielo<br>La Era de Hielo Una Navidad Tamaño Mamut', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BYTljZmYwNTgtMzlkNC00NTBiLWE5NWEtODc5ZjMyZTUwNTNlXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LA%20ERA%20DE%20HIELO%20UNA%20NAVIDAD%20TAMAÑO%20MAMUT.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>La Familia del Futuro', 
+     ,{ title: 'Infantil Varios<br>La Familia del Futuro', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTI0ZDkwYWUtNjQxOC00YTM1LTk3ODUtZDQ0YjhiYTI1ZDg1XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LA%20FAMILIA%20DEL%20FUTURO.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>El Ritmo de la Selva', 
+     ,{ title: 'Infantil Varios<br>El Ritmo de la Selva', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BODNhMWQ4ZTAtZDEzZi00YTdjLThkYzMtMTdhNzhkNWVkY2ZlXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LA%20JUNGLA.mp4'
 	  }
-     ,{ title: 'Pelicula Infantil<br>La Vida Secreta de tus Mascotas',
+     ,{ title: 'Infantil Varios<br>La Vida Secreta de tus Mascotas',
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LA%20VIDA%20SECRETA%20DE%20MIS%20MASCOTAS.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Lejos del Arbol', 
+     ,{ title: 'Infantil Varios<br>Lejos del Arbol', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BYTZlYjE0ODAtMGUwMy00N2EyLWFjZDUtODIzNDdmNWQ4ZWMyXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LEJOS%20DEL%20ARBOL.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Lluvia de Hamburguesas 1', 
+     ,{ title: 'Infantil Lluvia de Hamburguesas<br>Lluvia de Hamburguesas 1', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BOGZjZTcwYmYtMTI0Zi00ZmE3LThjMmItYmM4NWUzZDcyMDAyXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LLUVIA%20DE%20HAMBURGUESAS%201.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Lluvia de Hamburguesas 2', 
+     ,{ title: 'Infantil Lluvia de Hamburguesas<br>Lluvia de Hamburguesas 2', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMGNhY2NiZWYtYmI4Ny00Nzk0LWE5ZWMtODU2NDUyMGI4NTQ3XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LLUVIA%20DE%20HAMBURGUESAS%202.mp4' 
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Locos por Las Nueces 1', 
+     ,{ title: 'Infantil Locos por Las Nueces<br>Locos por Las Nueces 1', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMGY5Yzk4OGYtY2QzNy00ZTA0LWJhMTYtODAzZDM5OGUyOTBhXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LOCOS%20POR%20LAS%20NUECES%201.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Locos por Las Nueces 2', 
+     ,{ title: 'Infantil Locos por Las Nueces<br>Locos por Las Nueces 2', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMDNhYzIxNGItZWIwMC00MzdmLWE0YTUtNzZmMzVmNGY4MGQyXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LOCOS%20POR%20LAS%20NUECES%202.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Los Croods 1', 
+     ,{ title: 'Infantil Los Croods<br>Los Croods 1', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTcyOTc2OTA1Ml5BMl5BanBnXkFtZTcwOTI1MjkzOQ@@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LOS%20CROODS%201.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Los Croods 2', 
+     ,{ title: 'Infantil Los Croods<br>Los Croods 2', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmEyMDcxMWYtNjE4MS00Yjc3LWI3NzYtYWI2YjAzYmVmOTZhXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LOS%20CROODS%202.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Los Increibles 1', 
+     ,{ title: 'Infantil Los Increibles<br>Los Increibles 1', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMmJlODRiYzktNTk5OC00YmY3LWEzODQtZmU3MzA5Mjg3YTQ1XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LOS%20INCREIBLES%201.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Los Increibles 2', 
+     ,{ title: 'Infantil Los Increibles<br>Los Increibles 2', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LOS%20INCREIBLES%202.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Los Tipos Malos', 
+     ,{ title: 'Infantil Varios<br>Los Tipos Malos', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMWMxZGY3OTMtMmJhNy00YWM0LTg4Y2EtMDI2MDM5Mjk5NzgwXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/LOS%20TIPOS%20MALOS.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Norman del Norte', 
+     ,{ title: 'Infantil Varios<br>Norman del Norte', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTFmNWNjZjAtNTE4Mi00YTZlLTk1NGMtMTUwY2EwYWI5NGYyXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/NORM%20DEL%20NORTE.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Ozzy Rapido y Peludo', 
+     ,{ title: 'Infantil Varios<br>Ozzy Rapido y Peludo', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjkyNzlmNDctODBiMy00MDhmLTlmYTktZjI3MzZmNjYzODhmXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/OZZY%20RAPIDO%20Y%20PELUDO.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Pajaritos a Volar', 
+     ,{ title: 'Infantil Varios<br>Pajaritos a Volar', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMDMyODMyMTQtMDdlZi00N2YyLWJiNzUtMTQwMzZjZThiNDBiXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/PAJARITOS%20A%20VOLAR.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Patos!', 
+     ,{ title: 'Infantil Varios<br>Patos!', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMDBhNGQwN2UtZDI4NS00ZjFjLWE5NTEtOGRmYzVlNjUyNDMzXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/PATO%20PATO%20GANZO.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Ratatoiulle', 
+     ,{ title: 'Infantil Varios<br>Ratatoiulle', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/RATATOIULLE.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Sammy 1 Y El Pasaje Secreto', 
+     ,{ title: 'Infantil Sammy<br>Sammy 1 Y El Pasaje Secreto', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjk0MTkwZDEtYzQ0MC00MWU2LWFmOGEtZGU1MTZmNTE1YmI2XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/SAMMY%20LA%20TORTUGA%201.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Sammy 2 El Gran Escape', 
+     ,{ title: 'Infantil Sammy<br>Sammy 2 El Gran Escape', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTU5Mjg0NTE5NF5BMl5BanBnXkFtZTgwMTk3NTAxMzE@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/SAMMY%20LA%20TORTUGA%202.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Tarzán II', 
+//     ,{ title: 'Infantil Varios<br>Tarzán I', 
+//		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjM5OWM5NzktMTIzYy00OTk1LWIyYzAtYzBhNWY3NWQ2Y2Y0XkEyXkFqcGc@._V1_.jpg', 
+//		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/TARZÁN%20COMO%20COMENZO%20TODO.mp4'
+//	  }	  	  
+     ,{ title: 'Infantil Varios<br>Tarzán II', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmM0MzQzY2ItM2UxOC00ZmMwLWIwNTYtNDc5MGEzYmNjYWU4XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/TARZÁN%20COMO%20COMENZO%20TODO.mp4'
-	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Timón y Pumba', 
+	  }	  
+     ,{ title: 'Infantil Varios<br>Timón y Pumba', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZDA2MGU3MTgtYjhkNC00MWI4LWE2ZjAtY2NmZTRkMTM1YjQ2XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/TIMON%20Y%20PUMBA.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>UP Una Aventura de Altura', 
+     ,{ title: 'Infantil Varios<br>UP Una Aventura de Altura', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNmI1ZTc5MWMtMDYyOS00ZDc2LTkzOTAtNjQ4NWIxNjYyNDgzXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/UP-%20UNA%20AVENTURA%20DE%20ALTURA.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Vacas Vaqueras', 
+     ,{ title: 'Infantil Varios<br>Vacas Vaqueras', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTkzNDNmNDktNjAwOS00NmI5LWJkM2YtODYyMjE4ZTcwODQ2XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/VACAS%20VAQUERAS.mp4'
 	  }	  	  
-     ,{ title: 'Pelicula Infantil<br>Zootopia', 
+     ,{ title: 'Infantil Varios<br>Zootopia', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMGNjNDRhOTctZjU2OS00ODBkLWFkZWEtMjI4ZWQ4MTllMTFiXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/ZOOTOPIA.mp4'
 	  }
-	 ,{ title: 'Pelicula Infantil<br>Shrek 1', 
+	 ,{ title: 'Infantil Shrek<br>Shrek 1', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2FkMTRkNTUtYTI0NC00ZjI4LWI5MzUtMDFmOGY0NmU2OGY1XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/shrek_202407/Shrek.mp4'
 	  }
-	 ,{ title: 'Pelicula Infantil<br>Shrek 2', 
+	 ,{ title: 'Infantil Shrek<br>Shrek 2', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzNmNjQ1NmUtNzhiZS00YWE2LTg4N2ItZTA2ODdmOTMwOTQ1XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/shrek_202407/Shrek%202.mp4'
 	  }
-	 ,{ title: 'Pelicula Infantil<br>Shrek 3', 
+	 ,{ title: 'Infantil Shrek<br>Shrek 3', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOWY0NGIwMTUtNGQ0NS00NjJiLTkxYTYtY2Y5YWZmODI4ZGRlXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/shrek_202407/Shrek%20Tercero.mp4'
 	  }
-	 ,{ title: 'Pelicula Infantil<br>Shrek 4', 
+	 ,{ title: 'Infantil Shrek<br>Shrek 4', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTY0OTU1NzkxMl5BMl5BanBnXkFtZTcwMzI2NDUzMw@@._V1_.jpg', 
 	    url: 'https://archive.org/download/shrek_202407/Shrek%20Para%20Siempre.mp4'
 	  }
-	 ,{ title: 'Pelicula Infantil<br>Madagascar 1', 
+	 ,{ title: 'Infantil Madagascar<br>Madagascar 1', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjk4OGFmZmYtYWE4NC00MzM4LTkwZTItODdhMjk3NTZjMmI5XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/madagascar.-2005.-dvdrip.-latino.-xvi-d/Madagascar.2005.DVDRip.LATINO.XViD.mp4'
 	  }	  
-	 ,{ title: 'Pelicula Infantil<br>Madagascar 2', 
+	 ,{ title: 'Infantil Madagascar<br>Madagascar 2', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMjExMDA4NDcwMl5BMl5BanBnXkFtZTcwODAxNTQ3MQ@@._V1_.jpg', 
 	    url: 'https://archive.org/download/madagascar.-2005.-dvdrip.-latino.-xvi-d/Madagascar.Escape.2.Africa.2008.DVDRip.LATINO.XViD.mp4'
 	  }
-	 ,{ title: 'Pelicula Infantil<br>Madagascar 3', 
+	 ,{ title: 'Infantil Madagascar<br>Madagascar 3', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOGE1N2U3N2EtYTE0My00YTYzLTkwZWYtMTI4YjhjZGU4YzZmXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/madagascar.-2005.-dvdrip.-latino.-xvi-d/Madagascar.3.Europes.Most.Wanted.2012.DVDRip.LATINO.XViD.mp4'
 	  }	  	  
-	 ,{ title: 'Pelicula Infantil<br>Goofy La Pelicula', 
+	 ,{ title: 'Infantil Varios<br>Goofy La Pelicula', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzdlNGIwOGItMTA2Zi00MTQ3LTkxMTctYmNjZjZlMjQ5MjRjXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/2074-goofy-la-pelicula-1995-d-s-spa-eng-v_20240418/2074-Goofy%20La%20Pelicula%20%281995%29%20D%20S%20spa%20eng%20v.mkv'
 	  }	  
+	 ,{ title: 'Infantil Varios<br>Ricky Ricón', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTQxMmE0YWQtYjk3OS00ZmFmLWFjMWUtMDJhZDY0ZDViNGIxXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/ricky-ricon-1994/Ricky%20Ric%C3%B3n%20%281994%29.mp4'
+	  }
+	 ,{ title: 'Infantil Varios<br>Cigüeñas',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQyMjYzNDQtM2RiZi00ZGE0LThkZWEtYzQyMzc0YTdjNDljXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/00070_202211/00070.mp4'
+	  }	  	  
+	 ,{ title: 'Infantil Varios<br>La Oveja Shaun - El Cordero', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZmYxYWRmODAtMWEzNC00MTAxLTkyN2EtMTM1YmE2YzAwNmQxXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/shaun-en-el-espacio-farmageddon-2019/La%20oveja%20Shaun%20-%20El%20Cordero%20%282015%29.mp4'
+	  }	  	  
+	 ,{ title: 'Infantil Varios<br>Las Aventuras de Peabody y Sherman', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZWMyODZlZTktNWE0Ny00YzUzLWFkOTQtZjFjYjA5ZWMyZmU0XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/00993_20221121/00993.mp4'
+	  }	  
+//	 ,{ title: 'Infantil Varios<br>Tierra de Osos 1', 
+//	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYWMzNmZjYjAtOTQ3Ni00MzA4LTg0ZDQtMDE4NzQ2ODJhNDc4XkEyXkFqcGc@._V1_.jpg', 
+//	    url: ''
+//	  }	  
+	 ,{ title: 'Infantil Varios<br>Tierra de Osos 2', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BODAwMDhlYjQtYWJiMC00ZjU1LWI4NGEtYjAzNmYxY2NkODRhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/tierra-de-osos-2-2006-720p-audio-latino/Tierra%20de%20Osos%202%20%282006%29%20720p%20Audio%20Latino.mkv'
+	  }	  
+	 ,{ title: 'Infantil Varios<br>Una Ratoncita Valiente', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNzFjYzgxYmItYmI1OC00NWM5LWFmYWEtNDRiYmZiN2U4MzZhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/la-ratoncita-valiente-1982-espanol-latino/La%20Ratoncita%20Valiente%20%281982%29%20Espa%C3%B1ol%20Latino.mp4'
+	  }
+	 ,{ title: 'Infantil Un Cuento Americano<br>Un Cuento Americano 1', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTgwMjc3NDYxOF5BMl5BanBnXkFtZTcwNjUwNDYxMQ@@._V1_.jpg', 
+	    url: 'https://archive.org/download/un-cuento-americano_202411/Un%20Cuento%20Americano.mp4'
+	  }	  
+	 ,{ title: 'Infantil Un Cuento Americano<br>Un Cuento Americano 2', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNGYyNzJhOWEtODc5OC00ZjY5LWE4MTktN2IwMDU0YTEyYTViXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/un-cuento-americano_202411/Un%20Cuento%20Americano%202.mp4'
+	  }	  
+	 ,{ title: 'Infantil Un Cuento Americano<br>Un Cuento Americano 3', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYTJjYTI3NzYtNWJjMC00MjBkLTk5OTAtMDNhMjQ1MTUyMGYyXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/un-cuento-americano_202411/Un%20Cuento%20Americano%203.mp4'
+	  }	  
+	 ,{ title: 'Infantil Un Cuento Americano<br>Un Cuento Americano 4', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTEwMTM1MDUwMDVeQTJeQWpwZ15BbWU4MDUwNTUwMDcx._V1_.jpg', 
+	    url: 'https://archive.org/download/un-cuento-americano_202411/Un%20Cuento%20Americano%204.mp4'
+	  }	  	  
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E01', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E1.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E02', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E2.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E03', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E3.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E04', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E4.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E05', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E5.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E06', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E6.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E07', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E7.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E08', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E8.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E09', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E9.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E10', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E10.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E11', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E11.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E12', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E12.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E13', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E13.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E14', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E14.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E15', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E15.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E16', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E16.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E17', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E17.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E18', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E18.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E19', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E19.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E20', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E20.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E21', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E21.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E22', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E22.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E23', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E23.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T1E24', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGE3OWU2Y2QtZmIyMy00M2MxLTkyMjItMzE0YzRhOTJmMWFhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/e-14_20230829/E24.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T2E01', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDJmMDU2YjQtY2YxNy00ZDUxLTg1OTctYmU4OTI2OTQ0ODUxXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/s-02-e-13_202409/S02E01.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T2E02', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDJmMDU2YjQtY2YxNy00ZDUxLTg1OTctYmU4OTI2OTQ0ODUxXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/s-02-e-13_202409/S02E02.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T2E03', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDJmMDU2YjQtY2YxNy00ZDUxLTg1OTctYmU4OTI2OTQ0ODUxXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/s-02-e-13_202409/S02E03.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T2E04', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDJmMDU2YjQtY2YxNy00ZDUxLTg1OTctYmU4OTI2OTQ0ODUxXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/s-02-e-13_202409/S02E04.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T2E05', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDJmMDU2YjQtY2YxNy00ZDUxLTg1OTctYmU4OTI2OTQ0ODUxXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/s-02-e-13_202409/S02E05.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T2E06', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDJmMDU2YjQtY2YxNy00ZDUxLTg1OTctYmU4OTI2OTQ0ODUxXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/s-02-e-13_202409/S02E06.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T2E07', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDJmMDU2YjQtY2YxNy00ZDUxLTg1OTctYmU4OTI2OTQ0ODUxXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/s-02-e-13_202409/S02E07.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T2E08', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDJmMDU2YjQtY2YxNy00ZDUxLTg1OTctYmU4OTI2OTQ0ODUxXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/s-02-e-13_202409/S02E08.mkv'
+	  }
+	 ,{ title: 'Infantil El Chavo del 8<br>El Chavo del 8 T2E09', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDJmMDU2YjQtY2YxNy00ZDUxLTg1OTctYmU4OTI2OTQ0ODUxXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/s-02-e-13_202409/S02E09.mkv'
+	  }
+//	 ,{ title: 'Infantil Stuart Little<br>Stuart Little 1', 
+//	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzk4MGYzNDQtOGIyMC00ZjNiLTgzODctYzA1NTUzMDMyNTRmXkEyXkFqcGc@._V1_.jpg', 
+//	    url: 'https://archive.org/download/stuart-little-1-1999_202208/Stuart%20Little%201%20%282002%29.mp4'
+//	  }	  
+	 ,{ title: 'Infantil Stuart Little<br>Stuart Little 2', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNzBiYWNjMzYtNTRhNS00ZTU0LWJhOTYtNzZjY2JjOWUyZGViXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/stuart-little-1-1999_202208/Stuart%20Little%202%20%282002%29.mp4'
+	  }	  
+	 ,{ title: 'Infantil Stuart Little<br>Stuart Little 3', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTJkMDA1N2EtYTk0ZC00ZmIzLThjZDktYzVjNzcwYWE5NzQzXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/stuart-little-1-1999_202208/Stuart%20Little%203%20%282005%29.mp4'
+	  }	  	
 	 <!-- ********** DOCUMENTALES ****************************************************************************************************************** -->
 	 ,{ title: 'Documental<br>El Niño, el topo, el zorro y el Caballo', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZDg4MjI3NGMtOTcwMC00ZWQ0LWI0YjMtNDA0YmZjN2FlYzg2XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://archive.org/download/el-nino-el-topo-el-zorro-y-el-caballo-1080p-dual-759.22-mb/El%20Ni%C3%B1o%2C%20El%20Topo%2C%20El%20Zorro%20y%20El%20Caballo%201080p%20DUAL%20759.22%20MB.mkv' 
 	  }	  	  
   	 <!-- ********** MUSICALES    ****************************************************************************************************************** -->
-     ,{ title: 'Musical<br>Michael Jacksons - Triller', 
+	 ,{ title: 'Musical<br>El Mundo de las Spice Girls', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjExNmI4MzktZmEzNi00YjcyLThjNjgtZTc0YzI1MTI5ZDhlXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/el-mundo-de-las-spice-girls/El%20Mundo%20de%20las%20Spice%20Girls.mkv'
+	  }     
+	 ,{ title: 'Musical<br>Michael Jacksons - Triller', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMDM1YzIyNTYtOGFiMS00YjJiLThiMTktMjllYzI4NjExOGNjXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://archive.org/download/thriller.40.2023.1080p/Thriller.40.2023.1080P.ia.mp4' 
 	  }	
@@ -359,69 +563,202 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTY1MDM5YWUtODVkMy00MGRkLTlkMTEtYTQyMTFhZmFjYmZiXkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/22.-el-recuerdo-de-marnie/22.%20El%20recuerdo%20de%20Marnie.mp4'
 	  }
-	 <!-- ********** PELICULAS SERIAS ***************************************************************************************************************** -->	  
-	 ,{ title: 'Pelicula Seria<br>La Naranja Mecánica', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjFiN2E5N2ItZjc1Yy00MzZmLThmZGQtNGIyYjljMzk1NmU4XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://archive.org/download/la-naranja-mecanica.-latino/La%20naranja%20mec%C3%A1nica.%20Latino.mp4'
+	 <!-- ********** PELICULAS ************************************************************************************************************************ -->	  
+	 ,{ title: 'Pelicula<br>Ace Ventura 1', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjA5Y2VjNjItZThlMi00OTgwLTgxODctM2E3MmM5ZmJjNDBiXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/0076-ace-ventura-1-1994-720p-d-sspa-v/0076-Ace%20Ventura%201%20%281994%29%20720p%20D%20Sspa%20v.mkv'
 	  }
-	 ,{ title: 'Pelicula Seria<br>Titanes del Pacifico 2', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjU2OWM0N2ItMWU3Zi00OTE3LWJlOTktNzE3YWNkMDBiOTlhXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://archive.org/download/titanes-del-pacifico_202107/Titanes%20del%20Pacifico.mkv'
+	 ,{ title: 'Pelicula<br>Ace Ventura 2', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOGRhNmRiOWYtYzA1MS00ZGMyLTk1NGQtN2I2MTdhOThmMGRjXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/0076-ace-ventura-1-1994-720p-d-sspa-v/0077-Ace%20Ventura%202%20%281995%29%20720p%20D%20Sspa%20v.mkv'
+	  }	  
+	 ,{ title: 'Pelicula<br>Avión Presidencial', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjI2YmZjN2ItODNmYS00YmNkLWI0Y2YtMmQyZTVlM2NhZjg3XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/2824-avion-presidencial-1997-720p-d-s-spa-eng-v_202404/2824-Avion%20Presidencial%20%281997%29%20720p%20D%20S%20spa%20eng%20v.mp4'
 	  }
-	 ,{ title: 'Pelicula Seria<br>El Resplandor [25fps]', 
+	 ,{ title: 'Pelicula<br>Destino Final 1',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZWMwNTc4NjItNzJhZC00OWY5LWE2NGYtMzkwNTZmOTI4YWMzXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/destino-final_202407/Destino%20Final.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Destino Final 2',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzEzMmZiZDgtY2IxNC00ZmNjLTljYzMtZjhjZTRhM2IwN2Y5XkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/destino-final_202407/Destino%20Final%202.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Destino Final 3',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOWM1NWVmMGQtZTUzNC00NzAwLWIzMmMtMmUwMmQwYzY3MjVkXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/destino-final_202407/Destino%20Final%203.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Destino Final 4',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzY2YWViNDItNWM1NC00MGFhLTg1NzctMGIyYTMwYTk1MTdiXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/destino-final_202407/Destino%20Final%204.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Destino Final 5',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMmUyMWVjYzMtY2M5Yy00NGY5LTg0ZjgtMWUyMWE3ZDgzNjI4XkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/destino-final_202407/Destino%20Final%205.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>El Increible Hulk', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmJkODY3ZDItNDk4Ny00OGFmLWE3OGQtYmEwMDRmMGQ3NmI2XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/5-el-increible-hulk/5%20El%20Increible%20Hulk.mp4'
+	  }	  	  
+	 ,{ title: 'Pelicula<br>El Resplandor [25fps]', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmUxZDU3NjktMzA1OS00OGUwLWJkOTctYzhjOGI5MTcyY2U3XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/el-resplandor-venta-1980-25fps-3000kps/El%20Resplandor%20%28Venta%201980%20-%2025fps%20-3000kps%29.mp4'
 	  }	  
-	 ,{ title: 'Pelicula Seria<br>El Increible Hulk', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmJkODY3ZDItNDk4Ny00OGFmLWE3OGQtYmEwMDRmMGQ3NmI2XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://archive.org/download/5-el-increible-hulk/5%20El%20Increible%20Hulk.mp4'
+	 ,{ title: 'Pelicula<br>El Sexto Sentido', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMjhmYzg2MzUtMzYwMi00NWE0LWIxNTAtOTE0ZDQ4NTQxZGQ0XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/sexto-sentido_202407/Sexto%20Sentido.mp4'
+	  }	 
+	 ,{ title: 'Pelicula<br>La Naranja Mecánica', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjFiN2E5N2ItZjc1Yy00MzZmLThmZGQtNGIyYjljMzk1NmU4XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/la-naranja-mecanica.-latino/La%20naranja%20mec%C3%A1nica.%20Latino.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Los Sustitutos', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmNhMzNhYzgtZTE4OS00NDEyLTk2YzEtYTJiNjlmNjRiZDAwXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/The.surrogates.dvdrip.latino.c/The.surrogates.dvdrip.latino.c.mp4'
 	  }	  
-    ];		
+	 ,{ title: 'Pelicula<br>Machete', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZTY0OTZmYTMtMjhmOC00NzM3LTk2Y2MtMDg1ODNlOTkyNTcwXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/2596-machete-2010-720p-d-s-spa-eng-tc-v/2596-Machete%20%282010%29%20720p%20D%20S%20spa%20eng%20TC%20v.mp4'
+	  } 
+	 ,{ title: 'Pelicula<br>Planeta Terror', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMmFmOTBhZTUtMDdkNy00YzM4LWI0NmQtOTIzZDNiMzAxZDNhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/planeta-terror_202407/Planeta%20Terror.mp4'
+	  }	  
+	 ,{ title: 'Pelicula<br>Seduciendo a un Extraño', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTYwYTBiMGItODI1MS00MGU4LWE5M2ItNzE3YjZmNzI1OWQ2XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/s3duc13nd0.4.un.extr4n10.www.irandopeliculas.com/s3duc13nd0.4.un.extr4n10.www.%2Cirandopeliculas.com.mp4'
+	  }	  
+	 ,{ title: 'Pelicula<br>Titanes del Pacifico 2', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjU2OWM0N2ItMWU3Zi00OTE3LWJlOTktNzE3YWNkMDBiOTlhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/titanes-del-pacifico_202107/Titanes%20del%20Pacifico.mkv'
+	  }	  
+	 ,{ title: 'Pelicula<br>Un Detective en el Kinder 1', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOGU3ZDk0M2EtMjAwNi00ZTI3LTk4MWQtYjcwNTUwZjMwMWZmXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/un-detective-en-el-kinder-1990-espanol-latino/Un%20Detective%20En%20El%20Kinder%20%281990%29%20%28Espa%C3%B1ol%20Latino%29.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Un Detective en el Kinder 2',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMDAzYzFlNjEtMzkzNy00OTNkLTgzNjktMGM0NmExNGVmODBmXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/un-detective-en-el-kinder-1990-espanol-latino/Un%20Detective%20En%20El%20Kinder%202%20%282016%29%20%28Espa%C3%B1ol%20Latino%29.mp4'
+	  }	  
+	];
 
-    function loadGallery() {
-      const gallery = document.getElementById('movieGallery');
-      gallery.innerHTML = movies.map(movie => `
-        <div class="movie-item" onclick="playMovie('${movie.url}')">
-          <img src="${movie.thumbnail}" alt="${movie.title}" />
-		  <p style="text-align:center;">${movie.title}</p>
-        </div>
-      `).join('');
+const TotalGrupos = 20; //Cambiar despues de crear un nuevo grupo
+
+function groupMoviesByTitle(movies) {
+  const grouped = {};
+
+  movies.forEach(movie => {
+    const title = movie.title.split('<br>')[0]; // Extraer el título antes del <br>
+    if (!grouped[title]) {
+      grouped[title] = []; // Crear un array vacío si la clave no existe
     }
+    grouped[title].push(movie); // Agregar la película al grupo correspondiente
+  });
 
-    function playMovie(url) {
-      const videoPlayer = document.getElementById('videoPlayer');
-      videoPlayer.src = url;
-      videoPlayer.play();
-    }
+  return grouped;
+}
 
-    window.onload = loadGallery;
+function createAccordion() {
+  const sidebar = document.getElementById('sidebar');
+  sidebar.innerHTML = ''; // Limpiar el contenido anterior
 
+  const groupedMovies = groupMoviesByTitle(movies);
+  let groupCounter = 1; // Contador para asignar IDs numéricos
 
-	document.addEventListener("DOMContentLoaded", function () {
-	  const sidebar = document.getElementById("sidebar");
-	  const resizer = document.getElementById("resizer");
-	  let isResizing = false;
+  Object.keys(groupedMovies).forEach(title => {
+    const moviesInGroup = groupedMovies[title];
 
-	  resizer.addEventListener("mousedown", function (e) {
-		isResizing = true;
-		document.addEventListener("mousemove", resize);
-		document.addEventListener("mouseup", stopResize);
-	  });
+    // Crear el botón del acordeón
+    const accordionButton = document.createElement('button');
+    accordionButton.className = 'accordion-button';
+    accordionButton.textContent = `${groupCounter}.- ${title} (${moviesInGroup.length})`; // Mostrar el ID, título y cantidad de películas
+	accordionButton.innerHTML = `<div onclick="toggleAccordion('${groupCounter}')">
+									${groupCounter}. ${title} (${moviesInGroup.length})
+								</div>`;
 
-	  function resize(e) {
-		if (isResizing) {
-		  let newWidth = e.clientX;
-		  let maxWidth = window.innerWidth * 0.8; // Máximo 80% de la pantalla
-		  let minWidth = 200; // Mínimo 200px
-		  if (newWidth > minWidth && newWidth < maxWidth) {
-			sidebar.style.width = newWidth + "px";
-		  }
+    // Crear el contenido del acordeón
+	const accordionContent = document.createElement('div');
+	accordionContent.className = 'accordion-content';
+	accordionContent.id = `group-${groupCounter}`; // Asignar un ID numérico único
+	accordionContent.innerHTML = moviesInGroup.map(movie => `
+	  <div class="movie-item" onclick="playMovie('${movie.url}')">
+		<p class="movie-title">${movie.title.split('<br>')[1]}</p> <!-- Mostrar el título -->
+		<img src="${movie.thumbnail}" alt="${movie.title}" style="width: 95%;" />
+	  </div>	  
+	`).join('');
+
+    // Agregar el botón y el contenido al sidebar
+    sidebar.appendChild(accordionButton);
+    sidebar.appendChild(accordionContent);
+
+    groupCounter++; // Incrementar el contador para el siguiente grupo
+  });
+}
+
+function toggleAccordion(groupId) {
+  const accordionContent = document.getElementById(`group-${groupId}`);
+
+  // Cerrar todos los contenidos excepto el que se hizo clic
+	for (let i = 1; i <= TotalGrupos; i++) {
+		if (i!=groupId){
+			document.getElementById(`group-${i}`).style.display = 'none';
 		}
-	  }
+	}
 
-	  function stopResize() {
-		isResizing = false;
-		document.removeEventListener("mousemove", resize);
-		document.removeEventListener("mouseup", stopResize);
-	  }
-	});
+  // Alternar la visibilidad del contenido clickeado
+   if (accordionContent.id === `group-`+groupId) {
+	   if (accordionContent.style.display === 'block') {
+			accordionContent.style.display = 'none';
+	   } else {
+			accordionContent.style.display = 'block';
+	   }
+   }
+
+}
+
+function playMovie(url) {
+  const videoPlayer = document.getElementById('videoPlayer');
+  videoPlayer.src = url;
+  videoPlayer.play();
+}
+
+window.onload = createAccordion;
+
+document.addEventListener("DOMContentLoaded", function () {
+  const sidebar = document.getElementById("sidebar");
+  const resizer = document.getElementById("resizer");
+  let isResizing = false;
+
+  resizer.addEventListener("mousedown", function (e) {
+    isResizing = true;
+    document.addEventListener("mousemove", resize);
+    document.addEventListener("mouseup", stopResize);
+  });
+
+  function resize(e) {
+    if (isResizing) {
+      let newWidth = e.clientX;
+      let maxWidth = window.innerWidth * 0.8; // Máximo 80% de la pantalla
+      let minWidth = 200; // Mínimo 200px
+      if (newWidth > minWidth && newWidth < maxWidth) {
+        sidebar.style.width = newWidth + "px";
+      }
+    }
+  }
+
+  function stopResize() {
+    isResizing = false;
+    document.removeEventListener("mousemove", resize);
+    document.removeEventListener("mouseup", stopResize);
+  }
+});
+
+document.addEventListener("DOMContentLoaded", function () {
+    const sidebar = document.getElementById("sidebar");
+    const btnArriba = document.createElement("button");
+    btnArriba.id = "btnArriba";
+    btnArriba.textContent = "↑";
+    btnArriba.onclick = () => sidebar.scrollTo({ top: 0, behavior: "smooth" });
+    document.body.appendChild(btnArriba);
+});
+
