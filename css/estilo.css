@@ -9,7 +9,7 @@ body {
   min-width: 200px;
   max-width: 80%;  
   overflow-y: auto;
-  border-right: 1px solid #ccc;
+  border-right: 2px solid #ccc;
   padding: 10px;
   box-sizing: border-box;
   position: relative;
@@ -36,17 +36,18 @@ body {
   grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); 
   gap: 10px; 
 }
-.movie-item { 
-  cursor: pointer;
-  padding: 5px; 
-  transition: background-color 0.3s; 
-}
-.movie-item:hover { 
-  background-color: #f0f0f0; 
-}
+.movie-item {  
+   margin-bottom: 10px;
+   cursor: pointer; 
+   padding: 5px;  
+   transition: background-color 0.3s;  
+} 
+.movie-item:hover {  
+   background-color: #f0f0f0;
+} 
 img { 
    width: 100%; 
-   height: auto; 
+   height: 10%; 
    border-radius: 8px; 
 }
 video {
@@ -54,4 +55,72 @@ video {
   height: auto;
   max-height: 90vh;
   border-radius: 10px;
+}
+
+
+.accordion-button {
+  background-color: #f4f4f4;
+  color: #333;
+  padding: 10px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.accordion-button:hover {
+  background-color: #ddd;
+}
+.accordion-content {
+  display: none;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
+.movie-item img {
+  width: 100%;
+  height: auto;
+}
+.movie-item button {
+  display: block;
+  width: 100%;
+  padding: 5px;
+  margin-top: 5px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.movie-item button:hover {
+  background-color: #0056b3;
+}
+
+
+.movie-title {
+  text-align: center; /* Centrar el texto */
+  font-size: 20px; /* Tamaño de la fuente */
+  font-weight: bold; /* Negrita */
+  margin-bottom: 5px; /* Espacio entre el título y la imagen */
+  color: #333; /* Color del texto */
+  text-transform: uppercase;
+}
+
+#btnArriba {
+    display: block;
+	width: 5%;
+	height: 5%;
+    position: fixed;
+    bottom: 20px;
+    left: 44%;
+    background-color: #333;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+#btnArriba:hover {
+    background-color: #555;
 }
