@@ -304,14 +304,6 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZWMyODZlZTktNWE0Ny00YzUzLWFkOTQtZjFjYjA5ZWMyZmU0XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/00993_20221121/00993.mp4'
 	  }	  
-//	 ,{ title: 'Infantil Varios<br>Tierra de Osos 1', 
-//	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYWMzNmZjYjAtOTQ3Ni00MzA4LTg0ZDQtMDE4NzQ2ODJhNDc4XkEyXkFqcGc@._V1_.jpg', 
-//	    url: ''
-//	  }	  
-	 ,{ title: 'Infantil Varios<br>Tierra de Osos 2', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BODAwMDhlYjQtYWJiMC00ZjU1LWI4NGEtYjAzNmYxY2NkODRhXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://archive.org/download/tierra-de-osos-2-2006-720p-audio-latino/Tierra%20de%20Osos%202%20%282006%29%20720p%20Audio%20Latino.mkv'
-	  }	  
 	 ,{ title: 'Infantil Varios<br>Una Ratoncita Valiente', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNzFjYzgxYmItYmI1OC00NWM5LWFmYWEtNDRiYmZiN2U4MzZhXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/la-ratoncita-valiente-1982-espanol-latino/La%20Ratoncita%20Valiente%20%281982%29%20Espa%C3%B1ol%20Latino.mp4'
@@ -475,7 +467,15 @@
 	 ,{ title: 'Infantil Stuart Little<br>Stuart Little 3', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTJkMDA1N2EtYTk0ZC00ZmIzLThjZDktYzVjNzcwYWE5NzQzXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/stuart-little-1-1999_202208/Stuart%20Little%203%20%282005%29.mp4'
-	  }	  	
+	  }
+	 ,{ title: 'Infantil Tierra de Osos<br>Tierra de Osos 1', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYWMzNmZjYjAtOTQ3Ni00MzA4LTg0ZDQtMDE4NzQ2ODJhNDc4XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://vd384.okcdn.ru/?expires=1740768477233\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.20.13\u0026type=2\u0026sig=CYGbmP2NJFM\u0026ct=0\u0026urls=185.226.55.56\u0026clientType=1\u0026zs=43\u0026id=7410759305823'
+	  }
+	 ,{ title: 'Infantil Tierra de Osos<br>Tierra de Osos 2', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BODAwMDhlYjQtYWJiMC00ZjU1LWI4NGEtYjAzNmYxY2NkODRhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/tierra-de-osos-2-2006-720p-audio-latino/Tierra%20de%20Osos%202%20%282006%29%20720p%20Audio%20Latino.mkv'
+	  }
 	 <!-- ********** DOCUMENTALES ****************************************************************************************************************** -->
 	 ,{ title: 'Documental<br>El Niño, el topo, el zorro y el Caballo', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZDg4MjI3NGMtOTcwMC00ZWQ0LWI0YjMtNDA0YmZjN2FlYzg2XkEyXkFqcGc@._V1_.jpg', 
@@ -642,7 +642,7 @@
 	  }	  
 	];
 
-const TotalGrupos = 20; //Cambiar despues de crear un nuevo grupo
+const TotalGrupos = 22; //Cambiar despues de crear un nuevo grupo
 
 function groupMoviesByTitle(movies) {
   const grouped = {};
