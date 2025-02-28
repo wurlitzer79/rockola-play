@@ -689,14 +689,6 @@
 	  }
 
 	 <!-- ********** PELICULAS ************************************************************************************************************************ -->	  
-	 ,{ title: 'Pelicula<br>Ace Ventura 1', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjA5Y2VjNjItZThlMi00OTgwLTgxODctM2E3MmM5ZmJjNDBiXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://archive.org/download/0076-ace-ventura-1-1994-720p-d-sspa-v/0076-Ace%20Ventura%201%20%281994%29%20720p%20D%20Sspa%20v.mkv'
-	  }
-	 ,{ title: 'Pelicula<br>Ace Ventura 2', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOGRhNmRiOWYtYzA1MS00ZGMyLTk1NGQtN2I2MTdhOThmMGRjXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://archive.org/download/0076-ace-ventura-1-1994-720p-d-sspa-v/0077-Ace%20Ventura%202%20%281995%29%20720p%20D%20Sspa%20v.mkv'
-	  }	  
 	 ,{ title: 'Pelicula<br>Avión Presidencial', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjI2YmZjN2ItODNmYS00YmNkLWI0Y2YtMmQyZTVlM2NhZjg3XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/2824-avion-presidencial-1997-720p-d-s-spa-eng-v_202404/2824-Avion%20Presidencial%20%281997%29%20720p%20D%20S%20spa%20eng%20v.mp4'
@@ -945,7 +937,15 @@
 	 ,{ title: 'Pelicula Jim Carrey<br>El Hijo de la Mascara', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTIxNzA5NzIzOV5BMl5BanBnXkFtZTcwOTc5NzcyMQ@@._V1_.jpg', 
 	    url: 'https://archive.org/download/aki-videos_202407/AKI_VIDEOS5.mp4'
-	  }	  	  
+	  }
+	 ,{ title: 'Pelicula Jim Carrey<br>Ace Ventura 1', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjA5Y2VjNjItZThlMi00OTgwLTgxODctM2E3MmM5ZmJjNDBiXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/0076-ace-ventura-1-1994-720p-d-sspa-v/0076-Ace%20Ventura%201%20%281994%29%20720p%20D%20Sspa%20v.mkv'
+	  }
+	 ,{ title: 'Pelicula Jim Carrey<br>Ace Ventura 2', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOGRhNmRiOWYtYzA1MS00ZGMyLTk1NGQtN2I2MTdhOThmMGRjXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/0076-ace-ventura-1-1994-720p-d-sspa-v/0077-Ace%20Ventura%202%20%281995%29%20720p%20D%20Sspa%20v.mkv'
+	  }
 	  
 	 ,{ title: 'Pelicula Estreno 2024<br>AMARAN', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTAzMGQ2MGItMjk5OC00YWIwLThmMjUtYmNjMTIxNzVlZWQ4XkEyXkFqcGc@._V1_.jpg', 
