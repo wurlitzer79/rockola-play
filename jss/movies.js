@@ -853,7 +853,11 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOGQzYzE1ZTYtYTViYy00YTQ3LWI5ZjAtMzA1NWQ2NWJkYjEwXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://vd260.okcdn.ru/?expires=1740755607653\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.10\u0026type=3\u0026sig=kjPCGHK_kcs\u0026ct=0\u0026urls=185.226.53.74\u0026clientType=1\u0026zs=43\u0026id=3021045434992'
 	  }
-
+	 ,{ title: 'Pelicula<br>Infinite',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTZhMWU0NzEtNzViMC00NzljLWJlNzYtYTA4MGE1YWFmOTU3XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://vd394.okcdn.ru/?expires=1740853738695\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.20.23\u0026type=5\u0026sig=kNgD3exX2YY\u0026ct=0\u0026urls=185.226.55.19\u0026clientType=1\u0026zs=43\u0026id=6631425641204'
+	  }
+	    
 	 ,{ title: 'Pelicula Superman<br>1978 Superman I', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjg2NDE0NDQtNGYwMC00MjA4LWJhZGUtOTQwNzhiN2U4NDlmXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://vd546.okcdn.ru/?expires=1740749257760\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.55.56\u0026type=4\u0026sig=hqYjTaCe-IU\u0026ct=0\u0026urls=185.226.53.59\u0026clientType=1\u0026zs=43\u0026id=1534010264261'
@@ -943,59 +947,59 @@
 	    url: 'https://archive.org/download/aki-videos_202407/AKI_VIDEOS5.mp4'
 	  }	  	  
 	  
-	 ,{ title: 'Pelicula Estreno<br>2024 AMARAN', 
+	 ,{ title: 'Pelicula Estreno 2024<br>AMARAN', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTAzMGQ2MGItMjk5OC00YWIwLThmMjUtYmNjMTIxNzVlZWQ4XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://vd263.okcdn.ru/?expires=1740496146087\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=185.226.52.13\u0026type=2\u0026ix=0\u0026subId=7620390095456\u0026sig=oMZqsYLl5ew\u0026ct=13\u0026urls=185.226.53.93\u0026clientType=1\u0026zs=43\u0026id=7620390095456'
 	  }
-	 ,{ title: 'Pelicula Estreno<br>2024 La Familia', 
+	 ,{ title: 'Pelicula Estreno 2024<br>La Familia', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BY2JjMmJkNTQtNmYzNy00NmQ5LWFjNzgtOWE3NjdiZWM1YTAxXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://vd547.okcdn.ru/?expires=1740495978668\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.55.57\u0026type=4\u0026sig=fOhzXdc3DpE\u0026ct=0\u0026urls=185.226.52.44\u0026clientType=1\u0026zs=43\u0026id=7634162813536'
 	  }	 
-	 ,{ title: 'Pelicula Estreno<br>2024 Nosferatu', 
+	 ,{ title: 'Pelicula Estreno 2024<br>Nosferatu', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://ok6-13.vkuser.net/?expires=1740493906278\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=95.142.206.140\u0026type=2\u0026ix=0\u0026subId=7668580026976\u0026sig=0fi_dZDH2K8\u0026ct=13\u0026urls=185.226.53.76%3B45.136.21.8\u0026clientType=1\u0026zs=43\u0026id=7668580026976'
 	  }
-	 ,{ title: 'Pelicula Estreno<br>2024 Marmalade - Complice en fuga', 
+	 ,{ title: 'Pelicula Estreno 2024<br>Marmalade - Complice en fuga', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNzlhNTYzM2UtZDI3Ni00ODRiLThiNWYtN2NmYzg2OGNiMGQ4XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://vd554.okcdn.ru/?expires=1740570454052\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.55.64\u0026type=4\u0026sig=lCVhghppk6w\u0026ct=0\u0026urls=45.136.22.45\u0026clientType=1\u0026zs=43\u0026id=7643630537313'
 	  }
-	 ,{ title: 'Pelicula Estreno<br>2024 Problemas', 
+	 ,{ title: 'Pelicula Estreno 2024<br>Problemas', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTMwZmFkZjctOGJhMi00ZmQyLTk4ODAtYTM0OTFlNjkyZTVlXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://vd407.okcdn.ru/?expires=1740583791169\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=45.136.20.40\u0026type=2\u0026ix=1\u0026subId=6978893449824\u0026sig=7xn5NDLPx6I\u0026ct=13\u0026urls=185.226.53.58\u0026clientType=1\u0026zs=43\u0026id=6978893449824'
 	  }	  	  
-	 ,{ title: 'Pelicula Estreno<br>2024 El Asesino del Calendario', 
+	 ,{ title: 'Pelicula Estreno 2024<br>El Asesino del Calendario', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzdhYTIzOWUtOGQ3ZC00NGNlLTg1ODMtMDFlN2U2MGY0YzBiXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://vd340.okcdn.ru/?expires=1740668021356\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=185.226.52.61\u0026type=2\u0026ix=0\u0026subId=7494149671520\u0026sig=dRHlbUE-Vc4\u0026ct=13\u0026urls=45.136.20.19\u0026clientType=1\u0026zs=43\u0026id=7494149671520'
 	  }
-	 ,{ title: 'Pelicula Estreno<br>2024 Hellboy', 
+	 ,{ title: 'Pelicula Estreno 2024<br>Hellboy', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BODg5YmNkMGUtMjU1YS00MjI3LTkzMWQtN2Y2ZTVjM2FiNzJlXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://vd329.okcdn.ru/?expires=1740747248930\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=185.226.53.38\u0026type=2\u0026ix=0\u0026subId=7074100873824\u0026sig=eu4bPMnHqGc\u0026ct=13\u0026urls=45.136.20.52\u0026clientType=1\u0026zs=43\u0026id=7074100873824'
 	  }	  
 	  	  
-	 ,{ title: 'Pelicula Estreno<br>2025 El Abismo Secreto', 
+	 ,{ title: 'Pelicula Estreno 2025<br>El Abismo Secreto', 
 	    thumbnail: 'https://pics.filmaffinity.com/the_gorge-141845455-large.jpg', 
 	    url: 'https://ok6-15.vkuser.net/?expires=1740494415644\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=95.142.206.142\u0026type=2\u0026ix=0\u0026subId=7668763396704\u0026sig=lx68wcafA9s\u0026ct=13\u0026urls=45.136.21.6%3B185.226.53.90\u0026clientType=1\u0026zs=43\u0026id=7668763396704'
 	  }	  
-	 ,{ title: 'Pelicula Estreno<br>2025 La Dolce Villa', 
+	 ,{ title: 'Pelicula Estreno 2025<br>La Dolce Villa', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjJmM2VjODktY2UwMC00N2FiLThmOWEtOGFhZmM2MjI0MGVjXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://vd167.okcdn.ru/?expires=1740495226040\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=45.136.21.14\u0026type=2\u0026ix=0\u0026subId=7668245334624\u0026sig=1MAyTJVqsoA\u0026ct=13\u0026urls=45.136.22.12\u0026clientType=1\u0026zs=43\u0026id=7668245334624'
 	  }
-	 ,{ title: 'Pelicula Estreno<br>2025 La chica más hermosa del mundo', 
+	 ,{ title: 'Pelicula Estreno 2025<br>La chica más hermosa del mundo', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMGE5Y2MzMzEtMWZhNS00NmM2LThkMTgtZjBmZDFiYTJmZjcxXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://vd367.okcdn.ru/?expires=1740495733858\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=185.226.53.74\u0026type=2\u0026ix=0\u0026subId=7674247973472\u0026sig=ZsRMZzQWv30\u0026ct=13\u0026urls=45.136.22.72\u0026clientType=1\u0026zs=43\u0026id=7674247973472'
 	  }
-	 ,{ title: 'Pelicula Estreno<br>2025 Nunca te sueltes', 
+	 ,{ title: 'Pelicula Estreno 2025<br>Nunca te sueltes', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNmVhOWE4ODQtMjMyYi00MjMyLTgwYzItNTFjZjc0MDgxOTZlXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://vd442.okcdn.ru/?expires=1740502676056\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=45.136.20.67\u0026type=2\u0026ix=0\u0026subId=7180474124896\u0026sig=hZklyiK9HjE\u0026ct=13\u0026urls=185.226.55.60\u0026clientType=1\u0026zs=43\u0026id=7180474124896'
 	  }	  
-	 ,{ title: 'Pelicula Estreno<br>2025 Las aventuras de Dog Man', 
+	 ,{ title: 'Pelicula Estreno 2025<br>Las aventuras de Dog Man', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOWJmM2UwNjYtYzE3YS00MDNmLWE5NjAtY2I5NThmNWY0NDZhXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://vd329.okcdn.ru/?expires=1740665653389\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=185.226.53.38\u0026type=2\u0026ix=0\u0026subId=7691598170720\u0026sig=Z1RyqLlHii8\u0026ct=13\u0026urls=45.136.20.22\u0026clientType=1\u0026zs=43\u0026id=7691598170720'
 	  }
 
 	];
 
-const TotalGrupos = 30; //Cambiar despues de crear un nuevo grupo
+const TotalGrupos = 31; //Cambiar despues de crear un nuevo grupo
 
 function groupMoviesByTitle(movies) {
   const grouped = {};
