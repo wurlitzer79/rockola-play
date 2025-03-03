@@ -132,19 +132,6 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTVmY2I1YjctMDMwMS00OWFmLWFiNDktMTk2ZDljZDIzYTg4XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/street-fighter-2_202404/1_5096039436131500955.mp4'
 	  }	  
-	 ,{ title: 'Infantil Varios<br>La Familia Del Futuro', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTI0ZDkwYWUtNjQxOC00YTM1LTk3ODUtZDQ0YjhiYTI1ZDg1XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd290.okcdn.ru/?expires=1740568491092\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.40\u0026type=5\u0026sig=oZooYv3m5NM\u0026ct=0\u0026urls=185.226.55.48\u0026clientType=1\u0026zs=43\u0026id=7252817545789'
-	  }	  
-	 ,{ title: 'Infantil Varios<br>Asterix El secreto de la poción mágica', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMDMzZjU5ZDgtMDc5Yi00ZmQxLWIzNzctZGQ5NWYxYjI1ODYxXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd510.okcdn.ru/?expires=1740665180852\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.55.20\u0026type=5\u0026sig=IbGwrXWzdw8\u0026ct=0\u0026urls=45.136.20.49\u0026clientType=1\u0026zs=43\u0026id=686376094318'
-	  }
-	 ,{ title: 'Infantil Varios<br>Pequeños invasores', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZDU0N2FkNjMtNmMxZC00ODk5LTk2ZGUtNmEyMGU1MGQzZmY3XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd487.okcdn.ru/?expires=1740774341790\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.22.59\u0026type=4\u0026sig=fdfwDYZy3h8\u0026ct=0\u0026urls=185.226.52.29\u0026clientType=1\u0026zs=43\u0026id=3283721587269'
-	  }
-	  
 	  
      ,{ title: 'Infantil Angry Bird<br>Angry Bird 1', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjRlNmIxN2ItMDE4NS00NTM2LTllNTEtNzAwZTIzZmE0YzA2XkEyXkFqcGc@._V1_.jpg', 
@@ -462,85 +449,9 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDJmMDU2YjQtY2YxNy00ZDUxLTg1OTctYmU4OTI2OTQ0ODUxXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/s-02-e-13_202409/S02E09.mkv'
 	  }
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan ¡Esto es una animalada!',
-	    thumbnail: 'https://es.web.img3.acsta.net/c_310_420/pictures/18/02/12/12/54/2420217.jpg', 
-	    url: 'https://vd312.okcdn.ru/?expires=1740488836838\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.53.21\u0026type=1\u0026sig=EWld7rRoRKs\u0026ct=0\u0026urls=45.136.21.11\u0026clientType=1\u0026zs=43\u0026id=7393324042757'
-	  }	 
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan 3 minutos para salvar el mundo', 
-	    thumbnail: 'https://es.web.img3.acsta.net/c_310_420/pictures/18/02/12/10/07/0860587.jpg', 
-	    url: 'https://vd347.okcdn.ru/?expires=1740277984312\u0026srcIp=186.189.92.7\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.22.70\u0026type=1\u0026sig=YyW4klRbSU4\u0026ct=0\u0026urls=185.226.55.12\u0026clientType=1\u0026zs=43\u0026id=7393303792133'
-	  }	 
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan A ritmo de samba', 
-	    thumbnail: 'https://es.web.img3.acsta.net/c_310_420/pictures/18/02/12/11/02/5117075.jpg', 
-	    url: 'https://ok6-9.vkuser.net/?expires=1740277694970\u0026srcIp=186.189.92.7\u0026pr=10\u0026srcAg=CHROME\u0026ms=95.142.206.136\u0026type=4\u0026sig=8NN8WRbyLtQ\u0026ct=0\u0026urls=45.136.20.15%3B45.136.22.74\u0026clientType=1\u0026zs=43\u0026id=3105880607321'
-	  }
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan Aventuras en henderland', 
-	    thumbnail: 'https://es.web.img3.acsta.net/c_310_420/pictures/18/02/08/12/51/3759048.jpg', 
-	    url: 'https://vd536.okcdn.ru/?expires=1740487804818\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.55.46\u0026type=2\u0026sig=5fFAD67G6M4\u0026ct=0\u0026urls=185.226.53.36\u0026clientType=1\u0026zs=43\u0026id=4237025151672'
-	  }
 	 ,{ title: 'Infantil Shin Chan<br>Shin Chan En Busca de las bolas perdidas', 
 	    thumbnail: 'https://es.web.img3.acsta.net/c_310_420/pictures/210/104/21010445_20130605125033111.jpg', 
 	    url: 'https://archive.org/download/shin-chan-las-bolas-perdidas/SHIN%20CHAN%20LAS%20BOLAS%20PERDIDAS.mp4'
-	  }	  	 
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan El Chuleton Imposible', 
-	    thumbnail: 'https://es.web.img3.acsta.net/c_310_420/pictures/18/02/09/12/50/0009748.jpg', 	  
-		url: 'https://vd486.okcdn.ru/?expires=1740274502000&srcIp=186.189.92.7&pr=10&srcAg=CHROME&ms=45.136.22.41&type=1&sig=SBKto0Eqo3w&ct=0&urls=185.226.52.8&clientType=1&zs=43&id=6904068115138'
-	  }	
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan El pequeño samurái', 
-	    thumbnail: 'https://es.web.img3.acsta.net/c_310_420/pictures/18/02/09/11/20/4868941.jpg', 
-	    url: 'https://vd405.okcdn.ru/?expires=1740488068737\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.20.38\u0026type=0\u0026sig=QulE54SLiPc\u0026ct=0\u0026urls=185.226.52.17\u0026clientType=1\u0026zs=43\u0026id=7393299663365'
-	  }
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan El misterio de la Academia Tenkasu',
-		thumbnail: 'https://pics.filmaffinity.com/eiga_crayon_shin_chan_nazo_meki_hana_no_tenkasu_gakuen-364326499-large.jpg', 	 
-		url: 'https://ok6-3.vkuser.net/?expires=1740276546568\u0026srcIp=186.189.92.7\u0026pr=10\u0026srcAg=CHROME\u0026ms=95.142.206.130\u0026type=4\u0026sig=_FEvg-dcM5c\u0026ct=0\u0026urls=45.136.21.70%3B45.136.22.10\u0026clientType=1\u0026zs=43\u0026id=7970925578841'
-	  }	  
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan La Ambicion de Karakaka', 
-	    thumbnail: 'https://es.web.img2.acsta.net/c_310_420/pictures/18/02/08/12/26/1255641.jpg', 
-	    url: 'https://vd337.okcdn.ru/?expires=1740487620893\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.58\u0026type=4\u0026sig=AtKsPceLVMY\u0026ct=0\u0026urls=185.226.55.59\u0026clientType=1\u0026zs=43\u0026id=654334691973'
-	  }	  
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan La Espada de Oro', 
-	    thumbnail: 'https://es.web.img3.acsta.net/c_310_420/pictures/18/02/12/12/23/5806849.jpg', 
-	    url: 'https://vd381.okcdn.ru/?expires=1740488260002\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.76\u0026type=1\u0026sig=HTxDfugUFrM\u0026ct=0\u0026urls=45.136.21.22\u0026clientType=1\u0026zs=43\u0026id=7393322142213'
-	  }
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan La Invasion', 
-	    thumbnail: 'https://es.web.img2.acsta.net/c_310_420/pictures/18/02/08/11/47/3766810.jpg', 
-	    url: 'https://vd360.okcdn.ru/?expires=1740487374780\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.21.75\u0026type=4\u0026sig=ZKcg2TvZrLg\u0026ct=0\u0026urls=185.226.53.7\u0026clientType=1\u0026zs=43\u0026id=2681657166524'
-	  }	  
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan La Isla del Tesoro', 
-	    thumbnail: 'https://es.web.img3.acsta.net/c_310_420/pictures/18/02/08/12/07/5813616.jpg', 
-	    url: 'https://vd466.okcdn.ru/?expires=1740488493523\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.80\u0026type=1\u0026sig=ALrdOGyAtjU\u0026ct=0\u0026urls=185.226.55.58\u0026clientType=1\u0026zs=43\u0026id=7393314671109'
-	  }
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan La Princesa del Espacio', 
-	    thumbnail: 'https://es.web.img2.acsta.net/c_310_420/pictures/18/02/13/11/12/4058761.jpg', 
-	    url: 'https://vd394.okcdn.ru/?expires=1740493211261\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.20.23\u0026type=4\u0026sig=WUQLSimgWsU\u0026ct=0\u0026urls=45.136.21.70\u0026clientType=1\u0026zs=43\u0026id=680659454597'
-	  }	  
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan La Novia del Futuro', 
-	    thumbnail: 'https://es.web.img2.acsta.net/c_310_420/pictures/18/02/13/08/43/1982766.jpg', 
-	    url: 'https://vd223.okcdn.ru/?expires=1740492579914\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.22.31\u0026type=4\u0026sig=JCRLoGI21I4\u0026ct=0\u0026urls=185.226.53.76\u0026clientType=1\u0026zs=43\u0026id=3502721075963'
-	  }
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan Le Llamaban Shin Chan', 
-	    thumbnail: 'https://es.web.img2.acsta.net/c_310_420/pictures/18/02/12/08/55/1214518.jpg', 
-	    url: 'https://vd170.okcdn.ru/?expires=1740277847297\u0026srcIp=186.189.92.7\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.21.17\u0026type=4\u0026sig=Trq5QsA4nZo\u0026ct=0\u0026urls=185.226.53.72\u0026clientType=1\u0026zs=43\u0026id=7616728402575'
-	  }
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan Operacion Rescate', 
-	    thumbnail: 'https://es.web.img3.acsta.net/r_1920_1080/pictures/18/02/09/08/41/1552877.jpg', 
-	    url: 'https://vd432.okcdn.ru/?expires=1740276962652\u0026srcIp=186.189.92.7\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.21.29\u0026type=4\u0026sig=uPm6Oq0PAfI\u0026ct=0\u0026urls=185.226.53.41\u0026clientType=1\u0026zs=43\u0026id=864733760120'
-	  }	
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan Operacion espia de oro', 
-	    thumbnail: 'https://es.web.img3.acsta.net/c_310_420/pictures/18/02/13/09/07/4534321.jpg', 
-	    url: 'https://vd200.okcdn.ru/?expires=1740487914215\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.22.8\u0026type=4\u0026sig=GY7rv8-SYOA\u0026ct=0\u0026urls=185.226.52.40\u0026clientType=1\u0026zs=43\u0026id=680662862469'
-	  }	  	  
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan Papá Robot', 
-	    thumbnail: 'https://es.web.img2.acsta.net/c_310_420/pictures/18/02/13/11/53/3755951.jpg', 
-	    url: 'https://vd337.okcdn.ru/?expires=1740278096358\u0026srcIp=186.189.92.7\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.58\u0026type=5\u0026sig=Ri0-r86Z-YI\u0026ct=0\u0026urls=185.226.53.72\u0026clientType=1\u0026zs=43\u0026id=436359334613'
-	  }
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan Perdidos en la Jungla', 
-	    thumbnail: 'https://es.web.img3.acsta.net/c_310_420/pictures/18/02/09/09/25/1283074.jpg', 
-	    url: 'https://vd240.okcdn.ru/?expires=1740487223333\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.22.48\u0026type=4\u0026sig=KfDfc7EjBuI\u0026ct=0\u0026urls=185.226.55.52\u0026clientType=1\u0026zs=43\u0026id=7393322994181'
-	  }
-	 ,{ title: 'Infantil Shin Chan<br>Shin Chan Spa Wars La guerra de los balnearios', 
-	    thumbnail: 'https://es.web.img3.acsta.net/c_310_420/pictures/18/02/09/09/09/2550498.jpg', 
-	    url: 'https://vd302.okcdn.ru/?expires=1740489049347\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.53.11\u0026type=1\u0026sig=vU4aeXNCSkU\u0026ct=0\u0026urls=185.226.55.68\u0026clientType=1\u0026zs=43\u0026id=7393319979525'
 	  }	  
 //	 ,{ title: 'Infantil Stuart Little<br>Stuart Little 1', 
 //	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzk4MGYzNDQtOGIyMC00ZjNiLTgzODctYzA1NTUzMDMyNTRmXkEyXkFqcGc@._V1_.jpg', 
@@ -555,10 +466,10 @@
 	    url: 'https://archive.org/download/stuart-little-1-1999_202208/Stuart%20Little%203%20%282005%29.mp4'
 	  }	  	
 	 
-	 ,{ title: 'Infantil Tierra de Osos<br>Tierra de Osos 1', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYWMzNmZjYjAtOTQ3Ni00MzA4LTg0ZDQtMDE4NzQ2ODJhNDc4XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd384.okcdn.ru/?expires=1740768477233\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.20.13\u0026type=2\u0026sig=CYGbmP2NJFM\u0026ct=0\u0026urls=185.226.55.56\u0026clientType=1\u0026zs=43\u0026id=7410759305823'
-	  }	  
+//	 ,{ title: 'Infantil Tierra de Osos<br>Tierra de Osos 1', 
+//	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYWMzNmZjYjAtOTQ3Ni00MzA4LTg0ZDQtMDE4NzQ2ODJhNDc4XkEyXkFqcGc@._V1_.jpg', 
+//	    url: ''
+//	  }	  
 	 ,{ title: 'Infantil Tierra de Osos<br>Tierra de Osos 2', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BODAwMDhlYjQtYWJiMC00ZjU1LWI4NGEtYjAzNmYxY2NkODRhXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/tierra-de-osos-2-2006-720p-audio-latino/Tierra%20de%20Osos%202%20%282006%29%20720p%20Audio%20Latino.mkv'
@@ -572,15 +483,15 @@
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmM0MzQzY2ItM2UxOC00ZmMwLWIwNTYtNDc5MGEzYmNjYWU4XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/TARZÁN%20COMO%20COMENZO%20TODO.mp4'
 	  }
-	 ,{ title: 'Infantil Tarzán<br>Tarzán & Jane', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzVkOGY1ZGEtZmI1Ny00YWM1LTgxYzgtZTkxYzVkNGZkZWU5XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd291.okcdn.ru/?expires=1740756782228\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.41\u0026type=5\u0026sig=znYE7E2U4vc\u0026ct=0\u0026urls=45.136.20.24\u0026clientType=1\u0026zs=43\u0026id=4774071437872'
-	  }	  
-	  
-     ,{ title: 'Infantil El Rey León<br>El Rey León 1', 
-		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjExYTQwY2EtMDRkYi00ZWIzLTkwZDUtYjVmODYxMDUwNDI5XkEyXkFqcGc@._V1_.jpg', 
-		url: 'https://vd381.okcdn.ru/?expires=1740756054964\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.76\u0026type=4\u0026sig=QBf3ueVBStE\u0026ct=0\u0026urls=185.226.53.21\u0026clientType=1\u0026zs=43\u0026id=1211598178959'
-	  }	  
+//	 ,{ title: 'Infantil Tarzán<br>Tarzán & Jane', 
+//	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzVkOGY1ZGEtZmI1Ny00YWM1LTgxYzgtZTkxYzVkNGZkZWU5XkEyXkFqcGc@._V1_.jpg', 
+//	    url: ''
+//	  }	  
+
+//     ,{ title: 'Infantil El Rey León<br>El Rey León 1', 
+//		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjExYTQwY2EtMDRkYi00ZWIzLTkwZDUtYjVmODYxMDUwNDI5XkEyXkFqcGc@._V1_.jpg', 
+//		url: ''
+//	  }
      ,{ title: 'Infantil El Rey León<br>El Rey León 2', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMjA1MDUxNjI4OF5BMl5BanBnXkFtZTcwMTY4NTYyMQ@@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/EL%20REY%20LEÓN%202.mp4'
@@ -773,99 +684,10 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTYyMzMwMDMwMF5BMl5BanBnXkFtZTcwMzEzMzE2MQ@@._V1_.jpg', 
 	    url: 'https://archive.org/download/stealth.-2005.-dvdr/Stealth.2005.DVDR.mp4'
 	  }
-	 ,{ title: 'Pelicula<br>Metrópolis', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BM2MxYmU1MWQtNWIzOC00MjUwLWJlMzItMGQzODNmMjZkYzFiXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd350.okcdn.ru/?expires=1740496690835\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=45.136.22.73\u0026type=2\u0026ix=0\u0026subId=2792454949492\u0026sig=isHPNctVPc0\u0026ct=13\u0026urls=45.136.21.72\u0026clientType=1\u0026zs=43\u0026id=2792454949492'
-	  }	 
-	 ,{ title: 'Pelicula<br>Paprika El reino de los sueños', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGJkYjkyMDUtM2U3ZC00NDM3LWI0MzItZjU5MmYwYjg2YmIwXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://ok6-3.vkuser.net/?expires=1740496905314\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=95.142.206.130\u0026type=2\u0026ix=0\u0026subId=2861462719092\u0026sig=x6MMxUNBMks\u0026ct=13\u0026urls=185.226.55.28%3B185.226.52.60\u0026clientType=1\u0026zs=43\u0026id=2861462719092'
-	  }
-	 ,{ title: 'Pelicula<br>Your name', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTIyNzFjNzItZmQ1MC00NzhjLThmMzYtZjRhN2Y3MmM2OGQyXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd281.okcdn.ru/?expires=1740505359238\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.31\u0026type=4\u0026sig=RA_9QNV1qw8\u0026ct=0\u0026urls=45.136.20.16\u0026clientType=1\u0026zs=43\u0026id=363245472356'
-	  }
-	 ,{ title: 'Pelicula<br>Sismo Magnitud 9.5', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BY2JmNjk1OTQtZDZkZC00OTg4LThkODgtNjk4YzFmZTQyMTAxXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd355.okcdn.ru/?expires=1740505786173\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=45.136.21.70\u0026type=2\u0026ix=0\u0026subId=7274303851069\u0026sig=tfNqQfLiDVw\u0026ct=13\u0026urls=45.136.22.43\u0026clientType=1\u0026zs=43\u0026id=7274303851069'
-	  }
-	 ,{ title: 'Pelicula<br>Piraña 3D', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2JhNDI2NTctNjdlMi00OTA2LWE2MjktYjlmMjMyYWRjYWRmXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd444.okcdn.ru/?expires=1740568914727\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.20.69\u0026type=5\u0026sig=tyWHi6tqA7c\u0026ct=0\u0026urls=185.226.52.30\u0026clientType=1\u0026zs=43\u0026id=7252733463101'
-	  }	  
-	 ,{ title: 'Pelicula<br>La Chica del Tren', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjhiMGMzYjMtZDFlMC00N2YwLTk3OTctNDMyOThhOTZkNTFkXkEyXkFqcGc@._V1_FMjpg_UX220_.jpg', 
-	    url: 'https://vd329.okcdn.ru/?expires=1740569620065\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.53.38\u0026type=3\u0026sig=3lQrS1djI4s\u0026ct=0\u0026urls=45.136.20.42\u0026clientType=1\u0026zs=43\u0026id=460960565993'
-	  }
-	 ,{ title: 'Pelicula<br>Truman', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMWMwOGU1MWQtYzY1MC00NmMxLTliNmYtMDk4NjA1NWEzN2QxXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd516.okcdn.ru/?expires=1740570920789\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.55.26\u0026type=5\u0026sig=W63RjuNUFTk\u0026ct=0\u0026urls=45.136.21.33\u0026clientType=1\u0026zs=43\u0026id=649982642798'
-	  }
-	 ,{ title: 'Pelicula<br>Poltergeist', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTcwNjE5ZWUtMWQxOS00ZDQ0LTgyOTAtNDQ1ZjdhMGEwYmNjXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd168.okcdn.ru/?expires=1740571226703\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=45.136.21.15\u0026type=2\u0026ix=0\u0026subId=690865244921\u0026sig=G0KXeAUNFVs\u0026ct=13\u0026urls=45.136.20.26\u0026clientType=1\u0026zs=43\u0026id=690865244921'
-	  }
-	 ,{ title: 'Pelicula<br>E.T. El extraterrestre', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjQ3ZWY0NjktNWRiNy00NTgxLTg5NmYtMzI5ZDExODVjZjEwXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd468.okcdn.ru/?expires=1740571589972\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=185.226.52.82\u0026type=2\u0026ix=0\u0026subId=7215263648352\u0026sig=9OKXatrQaMA\u0026ct=13\u0026urls=45.136.22.25\u0026clientType=1\u0026zs=43\u0026id=7215263648352'
-	  }
-	 ,{ title: 'Pelicula<br>Mision Rescate', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNWI3MjUwNjYtNjk3ZC00ODM5LWFkMjctMWM3MTc1ZTdhOGY0XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd489.okcdn.ru/?expires=1740585134116\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.22.61\u0026type=2\u0026sig=6e-ee28zpCA\u0026ct=0\u0026urls=185.226.55.30\u0026clientType=1\u0026zs=43\u0026id=225687571002'
-	  }
-	 ,{ title: 'Pelicula<br>Escalofrios 2', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTdmYTc0ZGUtZWE3Zi00ZTkwLWIxODItYzJhNDUwZTczNWI1XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd375.okcdn.ru/?expires=1740662490565\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.22.80\u0026type=4\u0026sig=_NsXzYslw7E\u0026ct=0\u0026urls=185.226.52.57\u0026clientType=1\u0026zs=43\u0026id=499712723657'
-	  }
-	 ,{ title: 'Pelicula<br>PELÉ', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMjhiNTI2NWMtMjhmYi00MGIyLTg3MGQtNjljYTcxM2I2NWI1XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd375.okcdn.ru/?expires=1740662763791\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=45.136.22.80\u0026type=2\u0026ix=0\u0026subId=1225598634606\u0026sig=THD7-NnsZvg\u0026ct=13\u0026urls=185.226.53.45\u0026clientType=1\u0026zs=43\u0026id=1225598634606'
-	  }	  
-	 ,{ title: 'Pelicula<br>El Quinto Elemento', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMDVjYmYwNmUtM2M5ZS00ZTBkLWFiZWItNWRiNjcxZDg2NzYwXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd506.okcdn.ru/?expires=1740665956111\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.55.16\u0026type=5\u0026sig=2P3duddKUow\u0026ct=0\u0026urls=45.136.21.4\u0026clientType=1\u0026zs=43\u0026id=5050730941138'
-	  }
-	 ,{ title: 'Pelicula<br>La Momia', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTY4YWE0OGMtNjU0Yi00YzIwLTk3NTktM2ZiYWQwNjM4MmMxXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd390.okcdn.ru/?expires=1740666708308\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.20.19\u0026type=5\u0026sig=wwdPTAzK6WE\u0026ct=0\u0026urls=185.226.53.73\u0026clientType=1\u0026zs=43\u0026id=8088035986130'
-	  }
-	 ,{ title: 'Pelicula<br>La Momia Regresa', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMDQ3ZTU1MDUtMzQzMy00MzE1LWExNmQtZDFlYzhjNGNiOWY5XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd447.okcdn.ru/?expires=1740666878328\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.34\u0026type=5\u0026sig=7GxA_8JDrDs\u0026ct=0\u0026urls=45.136.21.11\u0026clientType=1\u0026zs=43\u0026id=8092667153106'
-	  }	  
-	 ,{ title: 'Pelicula<br>Elektra', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZWFlNjBlODgtMTg3MS00ZmRjLWFjM2ItZDgxYTIyNmMxNzM5XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd401.okcdn.ru/?expires=1740667115650\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.20.30\u0026type=4\u0026sig=wMWTQ0hskxY\u0026ct=0\u0026urls=185.226.53.39\u0026clientType=1\u0026zs=43\u0026id=5882344180468'
-	  }	  
-	 ,{ title: 'Pelicula<br>Gretel & Hansel', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTIxYzE2NmYtMjUwMy00MGY2LTkyODYtZmFjMjZmMTI1MjQzXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd415.okcdn.ru/?expires=1740667661699\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=45.136.20.52\u0026type=2\u0026ix=0\u0026subId=796832238214\u0026sig=bYbOyIWoZJ0\u0026ct=13\u0026urls=45.136.22.48\u0026clientType=1\u0026zs=43\u0026id=796832238214'
-	  }	  
-	 ,{ title: 'Pelicula<br>Soy un Animal', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOGQzYzE1ZTYtYTViYy00YTQ3LWI5ZjAtMzA1NWQ2NWJkYjEwXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd260.okcdn.ru/?expires=1740755607653\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.10\u0026type=3\u0026sig=kjPCGHK_kcs\u0026ct=0\u0026urls=185.226.53.74\u0026clientType=1\u0026zs=43\u0026id=3021045434992'
-	  }
 	 ,{ title: 'Pelicula<br>Infinite',
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTZhMWU0NzEtNzViMC00NzljLWJlNzYtYTA4MGE1YWFmOTU3XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd394.okcdn.ru/?expires=1740853738695\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.20.23\u0026type=5\u0026sig=kNgD3exX2YY\u0026ct=0\u0026urls=185.226.55.19\u0026clientType=1\u0026zs=43\u0026id=6631425641204'
-	  }
-	    
-	 ,{ title: 'Pelicula Superman<br>1978 Superman I', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjg2NDE0NDQtNGYwMC00MjA4LWJhZGUtOTQwNzhiN2U4NDlmXkEyXkFqcGc@._V1_.jpg', 
-		url: 'https://vd546.okcdn.ru/?expires=1740749257760\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.55.56\u0026type=4\u0026sig=hqYjTaCe-IU\u0026ct=0\u0026urls=185.226.53.59\u0026clientType=1\u0026zs=43\u0026id=1534010264261'
-	  }	  
-	 ,{ title: 'Pelicula Superman<br>1980 Superman II', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNzg5ZjJkNGEtNzhjNy00YzI4LTlkZjItNTViNmYxNGZlZWE2XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd352.okcdn.ru/?expires=1740750637080\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.21.67\u0026type=4\u0026sig=8uIHEeGnT0Y\u0026ct=0\u0026urls=45.136.20.18\u0026clientType=1\u0026zs=43\u0026id=6368407325359'
-	  }
-	 ,{ title: 'Pelicula Superman<br>1983 Superman III', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjcyN2E4NzQtYmUwZC00NmQ5LWJkMWUtMThjZGIwZGIwYzZmXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd217.okcdn.ru/?expires=1740750094521\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.22.25\u0026type=4\u0026sig=uYwiId2bd-0\u0026ct=0\u0026urls=45.136.21.29\u0026clientType=1\u0026zs=43\u0026id=860444428943'
-	  }
-	 ,{ title: 'Pelicula Superman<br>1987 Superman IV', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjhkODhlYjEtMDEyZS00YjZmLWJjMDctZGI3MGJiNDEyNTE2XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd206.okcdn.ru/?expires=1740750295899\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.22.14\u0026type=4\u0026sig=_-jG5lvMbGM\u0026ct=0\u0026urls=185.226.52.44\u0026clientType=1\u0026zs=43\u0026id=6531044870745'
-	  }
+		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTZhMWU0NzEtNzViMC00NzljLWJlNzYtYTA4MGE1YWFmOTU3XkEyXkFqcGc@._V1_.jpg',
+		url: 'https://ok6-4.vkuser.net/?expires=1741090264909\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=95.142.206.131\u0026type=5\u0026sig=lE9WTW0fUck\u0026ct=0\u0026urls=45.136.22.7%3B45.136.20.75\u0026clientType=1\u0026zs=43\u0026id=6631425641204'		 
+	 }
 	  
 	 ,{ title: 'Peliculas Stallone<br>Riesgo Total', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNGFkZmZhYWYtMTk3Mi00MWE2LWFiNjItZDUzNWY2OGM5ZTBiXkEyXkFqcGc@._V1_.jpg', 
@@ -937,7 +759,7 @@
 	 ,{ title: 'Pelicula Jim Carrey<br>El Hijo de la Mascara', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTIxNzA5NzIzOV5BMl5BanBnXkFtZTcwOTc5NzcyMQ@@._V1_.jpg', 
 	    url: 'https://archive.org/download/aki-videos_202407/AKI_VIDEOS5.mp4'
-	  }
+	  }	  	  
 	 ,{ title: 'Pelicula Jim Carrey<br>Ace Ventura 1', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjA5Y2VjNjItZThlMi00OTgwLTgxODctM2E3MmM5ZmJjNDBiXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/0076-ace-ventura-1-1994-720p-d-sspa-v/0076-Ace%20Ventura%201%20%281994%29%20720p%20D%20Sspa%20v.mkv'
@@ -945,61 +767,11 @@
 	 ,{ title: 'Pelicula Jim Carrey<br>Ace Ventura 2', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOGRhNmRiOWYtYzA1MS00ZGMyLTk1NGQtN2I2MTdhOThmMGRjXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/0076-ace-ventura-1-1994-720p-d-sspa-v/0077-Ace%20Ventura%202%20%281995%29%20720p%20D%20Sspa%20v.mkv'
-	  }
-	  
-	 ,{ title: 'Pelicula Estreno 2024<br>AMARAN', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTAzMGQ2MGItMjk5OC00YWIwLThmMjUtYmNjMTIxNzVlZWQ4XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd263.okcdn.ru/?expires=1740496146087\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=185.226.52.13\u0026type=2\u0026ix=0\u0026subId=7620390095456\u0026sig=oMZqsYLl5ew\u0026ct=13\u0026urls=185.226.53.93\u0026clientType=1\u0026zs=43\u0026id=7620390095456'
-	  }
-	 ,{ title: 'Pelicula Estreno 2024<br>La Familia', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BY2JjMmJkNTQtNmYzNy00NmQ5LWFjNzgtOWE3NjdiZWM1YTAxXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd547.okcdn.ru/?expires=1740495978668\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.55.57\u0026type=4\u0026sig=fOhzXdc3DpE\u0026ct=0\u0026urls=185.226.52.44\u0026clientType=1\u0026zs=43\u0026id=7634162813536'
-	  }	 
-	 ,{ title: 'Pelicula Estreno 2024<br>Nosferatu', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://ok6-13.vkuser.net/?expires=1740493906278\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=95.142.206.140\u0026type=2\u0026ix=0\u0026subId=7668580026976\u0026sig=0fi_dZDH2K8\u0026ct=13\u0026urls=185.226.53.76%3B45.136.21.8\u0026clientType=1\u0026zs=43\u0026id=7668580026976'
-	  }
-	 ,{ title: 'Pelicula Estreno 2024<br>Marmalade - Complice en fuga', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNzlhNTYzM2UtZDI3Ni00ODRiLThiNWYtN2NmYzg2OGNiMGQ4XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd554.okcdn.ru/?expires=1740570454052\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.55.64\u0026type=4\u0026sig=lCVhghppk6w\u0026ct=0\u0026urls=45.136.22.45\u0026clientType=1\u0026zs=43\u0026id=7643630537313'
-	  }
-	 ,{ title: 'Pelicula Estreno 2024<br>Problemas', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTMwZmFkZjctOGJhMi00ZmQyLTk4ODAtYTM0OTFlNjkyZTVlXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd407.okcdn.ru/?expires=1740583791169\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=45.136.20.40\u0026type=2\u0026ix=1\u0026subId=6978893449824\u0026sig=7xn5NDLPx6I\u0026ct=13\u0026urls=185.226.53.58\u0026clientType=1\u0026zs=43\u0026id=6978893449824'
-	  }	  	  
-	 ,{ title: 'Pelicula Estreno 2024<br>El Asesino del Calendario', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzdhYTIzOWUtOGQ3ZC00NGNlLTg1ODMtMDFlN2U2MGY0YzBiXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd340.okcdn.ru/?expires=1740668021356\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=185.226.52.61\u0026type=2\u0026ix=0\u0026subId=7494149671520\u0026sig=dRHlbUE-Vc4\u0026ct=13\u0026urls=45.136.20.19\u0026clientType=1\u0026zs=43\u0026id=7494149671520'
-	  }
-	 ,{ title: 'Pelicula Estreno 2024<br>Hellboy', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BODg5YmNkMGUtMjU1YS00MjI3LTkzMWQtN2Y2ZTVjM2FiNzJlXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd329.okcdn.ru/?expires=1740747248930\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=185.226.53.38\u0026type=2\u0026ix=0\u0026subId=7074100873824\u0026sig=eu4bPMnHqGc\u0026ct=13\u0026urls=45.136.20.52\u0026clientType=1\u0026zs=43\u0026id=7074100873824'
 	  }	  
-	  	  
-	 ,{ title: 'Pelicula Estreno 2025<br>El Abismo Secreto', 
-	    thumbnail: 'https://pics.filmaffinity.com/the_gorge-141845455-large.jpg', 
-	    url: 'https://ok6-15.vkuser.net/?expires=1740494415644\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=95.142.206.142\u0026type=2\u0026ix=0\u0026subId=7668763396704\u0026sig=lx68wcafA9s\u0026ct=13\u0026urls=45.136.21.6%3B185.226.53.90\u0026clientType=1\u0026zs=43\u0026id=7668763396704'
-	  }	  
-	 ,{ title: 'Pelicula Estreno 2025<br>La Dolce Villa', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjJmM2VjODktY2UwMC00N2FiLThmOWEtOGFhZmM2MjI0MGVjXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd167.okcdn.ru/?expires=1740495226040\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=45.136.21.14\u0026type=2\u0026ix=0\u0026subId=7668245334624\u0026sig=1MAyTJVqsoA\u0026ct=13\u0026urls=45.136.22.12\u0026clientType=1\u0026zs=43\u0026id=7668245334624'
-	  }
-	 ,{ title: 'Pelicula Estreno 2025<br>La chica más hermosa del mundo', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMGE5Y2MzMzEtMWZhNS00NmM2LThkMTgtZjBmZDFiYTJmZjcxXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd367.okcdn.ru/?expires=1740495733858\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=185.226.53.74\u0026type=2\u0026ix=0\u0026subId=7674247973472\u0026sig=ZsRMZzQWv30\u0026ct=13\u0026urls=45.136.22.72\u0026clientType=1\u0026zs=43\u0026id=7674247973472'
-	  }
-	 ,{ title: 'Pelicula Estreno 2025<br>Nunca te sueltes', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNmVhOWE4ODQtMjMyYi00MjMyLTgwYzItNTFjZjc0MDgxOTZlXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd442.okcdn.ru/?expires=1740502676056\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=45.136.20.67\u0026type=2\u0026ix=0\u0026subId=7180474124896\u0026sig=hZklyiK9HjE\u0026ct=13\u0026urls=185.226.55.60\u0026clientType=1\u0026zs=43\u0026id=7180474124896'
-	  }	  
-	 ,{ title: 'Pelicula Estreno 2025<br>Las aventuras de Dog Man', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOWJmM2UwNjYtYzE3YS00MDNmLWE5NjAtY2I5NThmNWY0NDZhXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd329.okcdn.ru/?expires=1740665653389\u0026srcIp=200.55.194.66\u0026srcAg=CHROME\u0026ms=185.226.53.38\u0026type=2\u0026ix=0\u0026subId=7691598170720\u0026sig=Z1RyqLlHii8\u0026ct=13\u0026urls=45.136.20.22\u0026clientType=1\u0026zs=43\u0026id=7691598170720'
-	  }
 
 	];
 
-const TotalGrupos = 31; //Cambiar despues de crear un nuevo grupo
+const TotalGrupos = 28; //Cambiar despues de crear un nuevo grupo
 
 function groupMoviesByTitle(movies) {
   const grouped = {};
