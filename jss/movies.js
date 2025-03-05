@@ -769,6 +769,35 @@
 	    url: 'https://archive.org/download/0076-ace-ventura-1-1994-720p-d-sspa-v/0077-Ace%20Ventura%202%20%281995%29%20720p%20D%20Sspa%20v.mkv'
 	  }	  
 
+	 ,{ title: 'Pelicula<br>Piraña 3D', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2JhNDI2NTctNjdlMi00OTA2LWE2MjktYjlmMjMyYWRjYWRmXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://vd281.okcdn.ru/?expires=1741195474434\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.31\u0026type=5\u0026sig=BC1qHMvGm40\u0026ct=0\u0026urls=45.136.21.52\u0026clientType=1\u0026zs=43\u0026id=7252733463101'
+	  }	  
+	 ,{ title: 'Pelicula<br>Dragon Ball Super: Broly', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTA5MTc1M2EtZWQ2Ni00ZmU2LTg3MzQtOTliMjE4OGM0ZWFiXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/dragon-ball-super-broly/Dragon%20Ball%20Super%3A%20Broly.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Dragon Ball Z: La Resurrección De Freezer', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNGZkMWExNjctN2I3ZC00NDYwLTk5ODQtYWMxNTdhNmMzMDA1XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/dragon-ball-z-la-resurreccion-de-freezer/Dragon%20Ball%20Z%3A%20La%20Resurrecci%C3%B3n%20de%20Freezer.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Dragon Ball Z: La Batalla De Los Dioses', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTEzZTFkNzctZTQ0NC00NWI2LWI3OTEtMWEzOGZhZWFiZjg2XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/dragon-ball-z-la-batalla-de-los-dioses/Dragon%20Ball%20Z%20la%20Batalla%20de%20los%20Dioses.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Neon Genesis Evangelion: The End Of Evangelion', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDUzNjgyNDEtYzUyNi00ZWNhLWE1OTAtZjdjNjBhZDc5YmQ3XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/the-end-of-evangelion-1997_202010/27%20-%20The%20End%20of%20Evangelion%20%281997%29.mkv'
+	  }	  
+	 ,{ title: 'Pelicula<br>Neon Genesis Evangelion: Death & Rebirth', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMGRiOWQyOTAtZDQ0Ny00NGRiLWIyYTYtZWM1MjNjNzg0ZjE3XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/neon-genesis-evangelion-death-rebirth/Neon%20Genesis%20Evangelion%20Death%20%26%20Rebirth.mp4'
+	  }	  	  
+	 ,{ title: 'Pelicula<br>Gran Prix', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNWZlYWFjMzItMTI0My00OGIxLThhYzktMTkxMDNiZThlNjdlXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/grand-prix-1978/Grand%20Prix%20%281978%29.mp4'
+	  }
+
 	];
 
 const TotalGrupos = 28; //Cambiar despues de crear un nuevo grupo
