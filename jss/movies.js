@@ -492,15 +492,37 @@
 //		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjExYTQwY2EtMDRkYi00ZWIzLTkwZDUtYjVmODYxMDUwNDI5XkEyXkFqcGc@._V1_.jpg', 
 //		url: ''
 //	  }
-     ,{ title: 'Infantil El Rey León<br>El Rey León 2', 
+     	,{ title: 'Infantil El Rey León<br>El Rey León 2', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMjA1MDUxNjI4OF5BMl5BanBnXkFtZTcwMTY4NTYyMQ@@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/EL%20REY%20LEÓN%202.mp4'
 	  }
-     ,{ title: 'Infantil El Rey León<br>Timón y Pumba', 
+    	 ,{ title: 'Infantil El Rey León<br>Timón y Pumba', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZDA2MGU3MTgtYjhkNC00MWI4LWE2ZjAtY2NmZTRkMTM1YjQ2XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/TIMON%20Y%20PUMBA.mp4'
 	  }	  	  
-	 
+
+
+	 ,{ title: 'Infantil Mi Villano Favorito<br>Minion Nace un Villano', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjU2OTc3NjMtNzcxYi00ODAwLWFkZTAtNzQyMzkzMTgzYzI4XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/minions.-nace.-un.-villano.-1080p.-dual-latino._202401/Minions.%20Nace.Un.Villano.1080p.Dual-Latino..mp4'
+	  }
+	 ,{ title: 'Infantil Mi Villano Favorito<br>Minions', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZTM3NThhNmMtNGIxYy00NDk5LWE3M2EtYjMxZWEzOGQxZWI3XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/minions-1-y-2-mi-villano-favorito-1-y-2-3-peliculas/Los%20Minions.mp4'
+	  }
+	 ,{ title: 'Infantil Mi Villano Favorito<br>Mi Villano Favorito 1', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzUyNTAxNmQtYjRmNy00OWEzLTljY2EtMmNjNjZkMDFkNWNiXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/minions-1-y-2-mi-villano-favorito-1-y-2-3-peliculas/Mi%20villano%20favorito%201.mp4'
+	  }
+	 ,{ title: 'Infantil Mi Villano Favorito<br>Mi Villano Favorito 2', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNmQyNmNiZjAtMzkzOS00MGQzLTgxMzQtMDRjNWE1MmQ3Yjk3XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/minions-1-y-2-mi-villano-favorito-1-y-2-3-peliculas/Mi%20villano%20favorito%202.mp4'
+	  }	  
+	 ,{ title: 'Infantil Mi Villano Favorito<br>Mi Villano Favorito 3', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQ2ZWYyMTItNzI5YS00ZjQ2LTk3M2ItZTE1ZmE1NDA0MDdlXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/minions-1-y-2-mi-villano-favorito-1-y-2-3-peliculas/Mi%20villano%20favorito%203.mp4'
+	  }	  
+	    
 	 <!-- ********** DOCUMENTALES ****************************************************************************************************************** -->
 	 ,{ title: 'Documental<br>El Niño, el topo, el zorro y el Caballo', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZDg4MjI3NGMtOTcwMC00ZWQ0LWI0YjMtNDA0YmZjN2FlYzg2XkEyXkFqcGc@._V1_.jpg', 
@@ -797,10 +819,13 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNWZlYWFjMzItMTI0My00OGIxLThhYzktMTkxMDNiZThlNjdlXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/grand-prix-1978/Grand%20Prix%20%281978%29.mp4'
 	  }
-
+	 ,{ title: 'Pelicula<br>La Purga', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzI3Yjk0YmMtOGE0MS00MmQ3LTk4ZTMtYzM3ZWZlYmI2N2I5XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mkv'
+	  }
 	];
 
-const TotalGrupos = 28; //Cambiar despues de crear un nuevo grupo
+const TotalGrupos = 29; //Cambiar despues de crear un nuevo grupo
 
 function groupMoviesByTitle(movies) {
   const grouped = {};
