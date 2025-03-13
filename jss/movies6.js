@@ -785,10 +785,10 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjEwMTJhMDktZDFjZi00MzQ5LTg0NWMtMDlhNmNiYWRkMDk1XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/PatchAdamLatino1080p/patch%20adam%20Latino1080p.mp4'
 	  }
-	 ,{ title: 'Pelicula<br>TITANIC', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYTk4YWRhMTctMGRjNS00MDkwLTgxNTEtNGE5MjAzMDk5ZTFlXkEyXkFqcGc@._V1_FMjpg_UY720_.jpg', 
-	    url: 'https://archive.org/download/1997-titanic_202503/1997_Titanic.mp4'
-	  }
+	// ,{ title: 'Pelicula<br>TITANIC', 
+	//    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYTk4YWRhMTctMGRjNS00MDkwLTgxNTEtNGE5MjAzMDk5ZTFlXkEyXkFqcGc@._V1_FMjpg_UY720_.jpg', 
+	//    url: 'https://archive.org/download/1997-titanic_202503/1997_Titanic.mp4'
+	//  }
 	 ,{ title: 'Pelicula<br>Medidas Desesperadas', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTg3MjIxODg5N15BMl5BanBnXkFtZTYwNTUyNTY5._V1_.jpg', 
 	    url: 'https://archive.org/download/1998-medidas-desesperadas/1998_Medidas%20Desesperadas.mp4'
