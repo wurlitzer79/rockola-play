@@ -647,10 +647,10 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTY1MDM5YWUtODVkMy00MGRkLTlkMTEtYTQyMTFhZmFjYmZiXkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/22.-el-recuerdo-de-marnie/22.%20El%20recuerdo%20de%20Marnie.mp4'
 	  }	
-	 ,{ title: 'Studio Ghibli<br>2020 Earwig y la bruja', 
-	    thumbnail: 'https://pics.filmaffinity.com/aya_to_majo-802898174-large.jpg', 
-	    url: 'https://vd236.okcdn.ru/?expires=1741906874237\u0026srcIp=186.189.92.7\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.22.44\u0026type=1\u0026sig=XO6vQP8g0Wk\u0026ct=0\u0026urls=185.226.53.86\u0026clientType=1\u0026zs=43\u0026id=7109543266948'
-	  }
+//	 ,{ title: 'Studio Ghibli<br>2020 Earwig y la bruja', 
+//	    thumbnail: 'https://pics.filmaffinity.com/aya_to_majo-802898174-large.jpg', 
+//	    url: 'https://vd236.okcdn.ru/?expires=1741906874237\u0026srcIp=186.189.92.7\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.22.44\u0026type=1\u0026sig=XO6vQP8g0Wk\u0026ct=0\u0026urls=185.226.53.86\u0026clientType=1\u0026zs=43\u0026id=7109543266948'
+//	  }
 	 ,{ title: 'Studio Ghibli<br>2023 El niño y la garza', 
 	   thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTY0OTdjZTgtZjMxMi00ZTMzLTg2M2ItZTkyYTJhYTAzMTMxXkEyXkFqcGc@._V1_.jpg', 
 	   url: 'https://archive.org/download/271353-c-8a-96984-2768-457c-94aa-acc-6fb-06ebfe-mxui-2375428-1fichier/271353--c8a96984-2768-457c-94aa-acc6fb06ebfe--mxui--2375428-1fichier.MP4'
@@ -741,14 +741,14 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTYyMzMwMDMwMF5BMl5BanBnXkFtZTcwMzEzMzE2MQ@@._V1_.jpg', 
 	    url: 'https://archive.org/download/stealth.-2005.-dvdr/Stealth.2005.DVDR.mp4'
 	  }
-	 ,{ title: 'Pelicula<br>Infinite',
-		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTZhMWU0NzEtNzViMC00NzljLWJlNzYtYTA4MGE1YWFmOTU3XkEyXkFqcGc@._V1_.jpg',
-		url: 'https://ok6-4.vkuser.net/?expires=1741090264909\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=95.142.206.131\u0026type=5\u0026sig=lE9WTW0fUck\u0026ct=0\u0026urls=45.136.22.7%3B45.136.20.75\u0026clientType=1\u0026zs=43\u0026id=6631425641204'		 
-	 }
-	 ,{ title: 'Pelicula<br>Piraña 3D', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2JhNDI2NTctNjdlMi00OTA2LWE2MjktYjlmMjMyYWRjYWRmXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd281.okcdn.ru/?expires=1741195474434\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.31\u0026type=5\u0026sig=BC1qHMvGm40\u0026ct=0\u0026urls=45.136.21.52\u0026clientType=1\u0026zs=43\u0026id=7252733463101'
-	  }	  
+//	 ,{ title: 'Pelicula<br>Infinite',
+//		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTZhMWU0NzEtNzViMC00NzljLWJlNzYtYTA4MGE1YWFmOTU3XkEyXkFqcGc@._V1_.jpg',
+//		url: 'https://ok6-4.vkuser.net/?expires=1741090264909\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=95.142.206.131\u0026type=5\u0026sig=lE9WTW0fUck\u0026ct=0\u0026urls=45.136.22.7%3B45.136.20.75\u0026clientType=1\u0026zs=43\u0026id=6631425641204'		 
+//	 }
+//	 ,{ title: 'Pelicula<br>Piraña 3D', 
+//	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2JhNDI2NTctNjdlMi00OTA2LWE2MjktYjlmMjMyYWRjYWRmXkEyXkFqcGc@._V1_.jpg', 
+//	    url: 'https://vd281.okcdn.ru/?expires=1741195474434\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.31\u0026type=5\u0026sig=BC1qHMvGm40\u0026ct=0\u0026urls=45.136.21.52\u0026clientType=1\u0026zs=43\u0026id=7252733463101'
+//	  }	  
 	 ,{ title: 'Pelicula<br>Dragon Ball Super: Broly', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTA5MTc1M2EtZWQ2Ni00ZmU2LTg3MzQtOTliMjE4OGM0ZWFiXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/dragon-ball-super-broly/Dragon%20Ball%20Super%3A%20Broly.mp4'
