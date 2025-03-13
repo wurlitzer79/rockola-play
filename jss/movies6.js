@@ -813,7 +813,26 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYWQ1YmYwMjAtNzQ3Ny00ZDhmLWEzZWMtZGUzZTAzNGI2YWQ1XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/2024-un.-asunto.-familiar/2024_Un.Asunto.Familiar.mp4'
 	  }
-	
+	  ,{ title: 'Pelicula<br>Empire Record', 
+	     thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTk1M2Q1NTEtNDk0ZS00OTBkLThkODctZGFjNmRhM2U3YTA5XkEyXkFqcGc@._V1_.jpg', 
+	     url: 'https://archive.org/download/1995-empire.-records-.mkv/1995_Empire.Records%20.mkv.mp4'
+	   }	  
+	 ,{ title: 'Pelicula<br>Mars Express', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTYxYzg2ZjMtZmRlMi00MGM0LWIyYTctZTdmYTYxMjBiMWFjXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/2023-mars-express/2023_Mars%20Express.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Rubia', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYThmYWU5ZTAtYmNhZC00ZTVmLTk0M2YtMjU4ODkzNDI3ZmVmXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/2022-rubia/2022_Rubia.mp4'
+	  }	  
+	 ,{ title: 'Pelicula<br>Miedo y asco en Las Vegas', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzBmNzM3N2EtODdhOC00ZDQ5LWI2NTAtOThiNjhlMmMzNTM2XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/1998-miedo-asco-en-las-vegas/1998_Miedo_%26_asco_en_Las_Vegas.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Beekeeper: Sentencia de muerte', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZWVhYTNhMzctNjE3Yi00MTcxLTk3ZTctYWU5OTY4YWZkY2NmXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/2024-apicultor/2024_Apicultor.mp4'
+	  }	  
 	    
 	 <!-- ********** PELICULAS DE ACTORES ************************************************************************************************************************ -->
 	 ,{ title: 'Peliculas Stallone<br>Riesgo Total', 
