@@ -833,6 +833,23 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZWVhYTNhMzctNjE3Yi00MTcxLTk3ZTctYWU5OTY4YWZkY2NmXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/2024-apicultor/2024_Apicultor.mp4'
 	  }	  
+	 ,{ title: 'Pelicula<br>Idiocracia', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNmNhN2NiOGUtOGM0Yy00ZjA3LTljNjAtNGZjZDZlNzdlZDcxXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/idiocracia-2006-brrip-m-720p-x-264-ac-3-es/Idiocracia%20%282006%29%20%5BBRrip%20m720p%20x264%20AC3%28ES%29%5D.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Ambulancia Plan De Huida', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNzEyMGMwZTMtNjEyNC00YjlhLWJmYzctMTY3NzIyYTQ1ZTA0XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/ambulancia-2022-720p-latino/Ambulancia%20%282022%29%20720p%20Latino.mkv'
+	  }	  
+	 ,{ title: 'Pelicula<br>El arte del robo', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMjgyNjg5NDMtYmE2Yy00ZjRmLWIyYjktODZhMWM5MDVhNzcxXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/el-arte-del-robo-2013-brrip-hd-720p-latino-dual/El%20Arte%20del%20Robo%20%282013%29%20BRRip%20HD%20720p%20Latino%20Dual.mkv'
+	  }
+	 ,{ title: 'Pelicula<br>El pájaro loco: La película', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMDc3NmUxMzMtMDEzZS00MTE5LThkZTQtNTBmMjNlMDg5NTI0XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/HotelTransylvania3MonstruosDeVacacionesTrailerOficial2EspaolLatino/Woody.woodpecker.2017.1080p-dual-lat.mp4.mp4'
+	  }
+	    
 	    
 	 <!-- ********** PELICULAS DE ACTORES ************************************************************************************************************************ -->
 	 ,{ title: 'Peliculas Stallone<br>Riesgo Total', 
