@@ -741,10 +741,10 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTYyMzMwMDMwMF5BMl5BanBnXkFtZTcwMzEzMzE2MQ@@._V1_.jpg', 
 	    url: 'https://archive.org/download/stealth.-2005.-dvdr/Stealth.2005.DVDR.mp4'
 	  }
-//	 ,{ title: 'Pelicula<br>Infinite',
-//		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTZhMWU0NzEtNzViMC00NzljLWJlNzYtYTA4MGE1YWFmOTU3XkEyXkFqcGc@._V1_.jpg',
-//		url: 'https://ok6-4.vkuser.net/?expires=1741090264909\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=95.142.206.131\u0026type=5\u0026sig=lE9WTW0fUck\u0026ct=0\u0026urls=45.136.22.7%3B45.136.20.75\u0026clientType=1\u0026zs=43\u0026id=6631425641204'		 
-//	 }
+	 ,{ title: 'Pelicula<br>Infinite',
+		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTZhMWU0NzEtNzViMC00NzljLWJlNzYtYTA4MGE1YWFmOTU3XkEyXkFqcGc@._V1_.jpg',
+		url: 'https://archive.org/download/Infinite.1080p.2021/Infinite.1080p.2021.mp4'
+	 }
 //	 ,{ title: 'Pelicula<br>Piraña 3D', 
 //	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2JhNDI2NTctNjdlMi00OTA2LWE2MjktYjlmMjMyYWRjYWRmXkEyXkFqcGc@._V1_.jpg', 
 //	    url: 'https://vd281.okcdn.ru/?expires=1741195474434\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.31\u0026type=5\u0026sig=BC1qHMvGm40\u0026ct=0\u0026urls=45.136.21.52\u0026clientType=1\u0026zs=43\u0026id=7252733463101'
