@@ -813,10 +813,10 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYWQ1YmYwMjAtNzQ3Ny00ZDhmLWEzZWMtZGUzZTAzNGI2YWQ1XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/2024-un.-asunto.-familiar/2024_Un.Asunto.Familiar.mp4'
 	  }
-	  ,{ title: 'Pelicula<br>Empire Record', 
-	     thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTk1M2Q1NTEtNDk0ZS00OTBkLThkODctZGFjNmRhM2U3YTA5XkEyXkFqcGc@._V1_.jpg', 
-	     url: 'https://archive.org/download/1995-empire.-records-.mkv/1995_Empire.Records%20.mkv.mp4'
-	   }	  
+	 ,{ title: 'Pelicula<br>Empire Record', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTk1M2Q1NTEtNDk0ZS00OTBkLThkODctZGFjNmRhM2U3YTA5XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/1995-empire.-records-.mkv/1995_Empire.Records%20.mkv.mp4'
+	  }	  
 	 ,{ title: 'Pelicula<br>Mars Express', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTYxYzg2ZjMtZmRlMi00MGM0LWIyYTctZTdmYTYxMjBiMWFjXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/2023-mars-express/2023_Mars%20Express.mp4'
@@ -849,7 +849,46 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMDc3NmUxMzMtMDEzZS00MTE5LThkZTQtNTBmMjNlMDg5NTI0XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/HotelTransylvania3MonstruosDeVacacionesTrailerOficial2EspaolLatino/Woody.woodpecker.2017.1080p-dual-lat.mp4.mp4'
 	  }
-	    
+	 ,{ title: 'Pelicula<br>Felix el gato: la pelicula', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjBmOWI2NDMtMWU0MS00ZmI0LTljYWEtNmM0MmY0YTIzYjBjXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/y-2mate.com-felix-el-gato-la-pelicula-en-espan-ol-latino-720p/y2mate.com%20-%20Felix%20el%20gato%20la%20pel%C3%ADcula%20en%20ESPA%C3%91OL%20LATINO_720p.mp4'
+	  }	  	  
+	 ,{ title: 'Pelicula<br>bunker', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMDJiNTZlZDktNWY0Ni00ZjdlLWI4MTUtMjRlYzU4NTkzZmIzXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/bunker-latino-1080p/Bunker%20%28Latino%29%201080p.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Karusell', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNmQ5N2RhZmQtYWM1Zi00ZWQyLTkxZGMtZmVmNGZiOTBiMDc0XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/horrorland-latino-1080p/Horrorland%20%28Latino%29%201080p.mp4'
+	  }	  
+	 ,{ title: 'Pelicula<br>Gran Turismo', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjc3YjFmZWYtNTY1OS00OWQyLWFmODctZThmODU3YzMyZjYzXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/gran-turismo-based-on-a-true-story-2023-1080p-web-dl-ma-ligera-latino-5.1/Gran%20Turismo%20Based%20on%20a%20True%20Story%202023%201080p%20WEB-DL%20MA%20LIGERA%20Latino%205.1.mkv'
+	  }	  
+	 ,{ title: 'Pelicula<br>Pantaleon y las visitadoras', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMGU3ZDE1ZTYtNWQ3NS00ODVkLWE2ZjMtMTA1OWY0MTI2YTFkXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/19822_202401/19822.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>DJANGO: La otra cara', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZDYxOGI2ZGEtMTYxNi00MjRkLTkwZTktYmIyYTZhMjkwYTU0XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/tt0327646/tt0327646.mp4'
+	  }	  
+	 ,{ title: 'Pelicula<br>Elijo Creer', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYTQxNjViODItNzc3Yy00MDA3LWIwZDMtY2QxNzMxNzExMTJhXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/tt30342692/tt30342692.mkv'
+	  }	  	  
+	 ,{ title: 'Pelicula<br>Bohemian Rhapsody', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_.jpg', 
+	    url: 'https://archive.org/download/bohemian-rhapsody-2018-bdrip-4-k-uhd-hdr/Bohemian%20Rhapsody%20%282018%29%20BDRip%204K%20UHD%20HDR.mp4'
+	  }	  	  
+	 ,{ title: 'Pelicula<br>El Grinch', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMDJiMjFhN2YtM2ZmZi00MDMwLTkzNjQtYjFlYmExNGEzMmIyXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/how-the-grinch-stole-christmas-2000-bdrip-4-k-hdr-10-es-lat-en-subt-es-en-gdrivelatino-hd/How%20the%20Grinch%20stole%20Christmas%20%282000%29%20BDrip%204K%20HDR10%20%28es-lat%20en%20subt%20es%20en%29%20%5BGDRIVELatinoHD%5D.mp4'
+	  }	  
+	 ,{ title: 'Pelicula<br>La canción del MAR', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOWIzMzRlM2EtZTY3Zi00MGE4LWEzZGMtY2RiNGM2NjMzOGVkXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/SongOfTheSeaEsp/Song%20of%20the%20Sea%201080p%20%28TripleAudio%29.mkv'
+	  }	    
 	    
 	 <!-- ********** PELICULAS DE ACTORES ************************************************************************************************************************ -->
 	 ,{ title: 'Peliculas Stallone<br>Riesgo Total', 
@@ -930,8 +969,20 @@
 	 ,{ title: 'Pelicula Jim Carrey<br>Ace Ventura 2', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOGRhNmRiOWYtYzA1MS00ZGMyLTk1NGQtN2I2MTdhOThmMGRjXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/0076-ace-ventura-1-1994-720p-d-sspa-v/0077-Ace%20Ventura%202%20%281995%29%20720p%20D%20Sspa%20v.mkv'
+	  }
+	    
+	 ,{ title: 'Pelicula Liam Neeson<br>TAKEN 1', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNzgwN2YzNjEtZjA2ZC00YTE1LWI4ZjEtZmFlNGU5MmIxNzFjXkEyXkFqcGc@._V1_FMjpg_UY461_.jpg', 
+	    url: 'https://archive.org/download/busqueda-implacable-2008-extended-brrip-1080p-latino-www.-gdrivelatino-hd.-net/B%C3%BAsqueda%20Implacable%20%282008%29%20EXTENDED%20BRRip%201080p%20Latino%20WWW.GDRIVELatinoHD.NET.mkv'
+	  }	  	  
+	 ,{ title: 'Pelicula Liam Neeson<br>TAKEN 2', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZmU4M2VlM2YtNThhOC00OWEzLWJhNzYtNWQzYjFiMzE5YzFjXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/busqueda-implacable-2-2012-extended-brrip-1080p-latino-www.-gdrivelatino-hd.-net/B%C3%BAsqueda%20Implacable%202%20%282012%29%20EXTENDED%20BRRip%201080p%20Latino%20WWW.GDRIVELatinoHD.NET.mkv'
 	  }	  
-
+	 ,{ title: 'Pelicula Liam Neeson<br>TAKEN 3', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMjk2MjhlZWUtNDY2MC00NDU4LTg0MWUtNWIwNTYxYzE4ZDk1XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/busqueda-implacable-3-2014-extended-brrip-1080p-latino-www.-gdrivelatino-hd.-net/B%C3%BAsqueda%20Implacable%203%20%282014%29%20EXTENDED%20BRRip%201080p%20Latino%20WWW.GDRIVELatinoHD.NET.mkv'
+	  }
 
 
 // NO SUBIDOS \\	 
